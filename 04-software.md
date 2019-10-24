@@ -20,7 +20,7 @@ We implement our methods as the R packages deployed on [Bioconductor](http://www
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/multiHiCcompare.html), [GitHub](https://github.com/dozmorovlab/multHiCcompare), [Paper](http://www.ncbi.nlm.nih.gov/pubmed/30668639) ]
 
 **HiCcompare** - An R package for joint normalization and differential analysis of chromatin interactions obtained from Hi-C sequencing
-[ [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/HiCcompare.html), [GitHub](https://github.com/dozmorovlab/HiCcompare), [Preprint](https://www.biorxiv.org/content/10.1101/147850v2), [Paper](http://www.ncbi.nlm.nih.gov/pubmed/30064362) ]
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/HiCcompare.html), [GitHub](https://github.com/dozmorovlab/HiCcompare), [Preprint](https://www.biorxiv.org/content/10.1101/147850v2), [Paper](http://www.ncbi.nlm.nih.gov/pubmed/30064362) ]
 
 <!--
 HMP2data	An R package for data access from the integrative Human Microbiome data portal	https://github.com/dozmorovlab/HMP2Data
