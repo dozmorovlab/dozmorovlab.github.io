@@ -22,19 +22,13 @@ We implement our methods as the R packages deployed on [Bioconductor](http://www
 **HiCcompare** - An R package for joint normalization and differential analysis of chromatin interactions obtained from Hi-C sequencing
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/HiCcompare.html), [GitHub](https://github.com/dozmorovlab/HiCcompare), [Preprint](https://www.biorxiv.org/content/10.1101/147850v2), [Paper](http://www.ncbi.nlm.nih.gov/pubmed/30064362) ]
 
-<!--
-HMP2data	An R package for data access from the integrative Human Microbiome data portal	https://github.com/dozmorovlab/HMP2Data
-https://bioconductor.org/packages/devel/
-data/experiment/html/HMP2Data.html 
+**HMP2data** - An R package for data access from the integrative Human Microbiome data portal
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/devel/data/experiment/html/HMP2Data.html), [GitHub](https://github.com/dozmorovlab/HMP2Data) ]
 
 # Non Bioconductor
 
-GenomeRunner	A web server and a standalone tool for enrichment analysis of genomic regions in epigenomic annotations. PMID: 27153607 and PMID: 22155868.
-http://integrativegenomics.org/
-https://sourceforge.net/p/genomerunner 
+**GenomeRunner** - A web server and a standalone tool for enrichment analysis of genomic regions in epigenomic annotations
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Web](http://integrativegenomics.org/), [SourceForge](https://sourceforge.net/p/genomerunner), [Paper1](http://www.ncbi.nlm.nih.gov/pubmed/27153607), [Paper2](http://www.ncbi.nlm.nih.gov/pubmed/22155868) ]
 
-lrcde	An R package for cell type-specific deconvolution and differential gene expression analysis. PMID: 27766949
-https://github.com/mdozmorov/lrcde.dev 
--->
-
-
+**lrcde** - An R package for cell type-specific deconvolution and differential gene expression analysis
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/lrcde.dev), [Paper](http://www.ncbi.nlm.nih.gov/pubmed/27766949) ]
