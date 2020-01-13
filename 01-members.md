@@ -21,8 +21,8 @@ GitHub: [mdozmorov](https://github.com/mdozmorov) | [Google Scholar](http://scho
 <img alt="Katarzyna Tyc" align="left" src="media/people/KatarzynaTyc.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Katarzyna Tyc, Ph.D.  
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow, [Department of Biostatistics](https://biostatistics.vcu.edu/)  
-
 <br>
+&nbsp;&nbsp;&nbsp;GitHub: [kmt555](https://github.com/kmt555) | [Google Scholar](https://scholar.google.com/citations?user=IrDcxXMAAAAJ&hl=en&oi=sra) | [LinkedIn](https://www.linkedin.com/in/katarzynatyc/)   
 <br>
 <br>
 <br>
