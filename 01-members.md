@@ -18,7 +18,7 @@ GitHub: [mdozmorov](https://github.com/mdozmorov) | [Google Scholar](http://scho
 <br>
 <br>
 
-<img alt="Katarzyna Tyc" align="left" src="media/people/240px-Missing_avatar.svg.png" width="100" height="100"/>
+<img alt="Katarzyna Tyc" align="left" src="media/people/KatarzynaTyc.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Katarzyna Tyc, Ph.D.  
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow, [Department of Biostatistics](https://biostatistics.vcu.edu/)  
 
