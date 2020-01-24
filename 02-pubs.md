@@ -56,6 +56,8 @@ permalink: "publications.html"
 
 ## Collaborative publications
 
+- Wang D, Naydenov NG, Dozmorov MG, Koblinski JE, Ivanov AI. **Anillin regulates breast cancer cell migration, growth, and metastasis by non-canonical mechanisms involving control of cell stemness and differentiation.** _Breast Cancer Res_. 2020 Jan 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31910867), [DOI](https://doi.org/10.1186/s13058-019-1241-x) <span data-badge-type="4" data-doi="10.1186/s13058-019-1241-x" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
 - Mirshahi F, Aqbi HF, Cresswell K, Saneshaw M, Coleman C, Jacobs T, Idowu MO, Dozmorov M, Sanyal AJ, Manjili MH. **Longitudinal studies can identify distinct inflammatory cytokines associated with the inhibition or progression of liver cancer.** _Liver Int_. 2019 Dec 10. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31821689), [DOI](https://doi.org/10.1111/liv.14323) <span data-badge-type="4" data-doi="10.1111/liv.14323" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Sayyad MR, Puchalapalli M, Vergara NG, Wangensteen SM, Moore M, Mu L, Edwards C, Anderson A, Kall S, Sullivan M, Dozmorov M, Singh J, Idowu MO, Koblinski JE. **Syndecan-1 facilitates breast cancer metastasis to the brain.** _Breast Cancer Res Treat_. 2019 Jul 20. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31327090), [DOI](https://doi.org/10.1007/s10549-019-05347-0) <span data-badge-type="4" data-doi="10.1007/s10549-019-05347-0" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
