@@ -20,6 +20,8 @@ permalink: "publications.html"
 
 -	Gowon O. McMichael, John Drake, Eric Sean Vornholt, Kellen Cresswell, Vernell Williamson, Chris Chatzinakos, Mohammed Mamdani, Siddharth Hariharan, Kenneth S. Kendler, Michael F. Miles, Gursharan Kalsi, Brien P. Riley, Mikhail Dozmorov, Silviu-Alin Bacanu, Vladimir I. Vladimirov. **Assessing the role of long-noncoding RNA in nucleus accumbens in subjects with alcohol dependence.** _bioRxiv_, [DOI](https://doi.org/10.1101/583203) <span data-badge-type="4" data-doi="10.1101/583203" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
+- Jami M. Gurley, Grzegorz Gmyrek, Mark E. McClellan, Stefanie M. Hauck, Mikhail G. Dozmorov, Jonathan D. Wren, Daniel J. J. Carr, Michael H. Elliott. Neuroretinal-derived caveolin-1 promotes endotoxin-induced inflammation in the murine retina.** _bioRxiv_, [DOI](https://doi.org/10.1101/2020.01.08.899377) <span data-badge-type="4" data-doi="10.1101/2020.01.08.899377" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
 ## Group publications
 
 - Stansfield JC, Tran D, Nguyen T, Dozmorov MG<sup>&lowast;</sup>. **R Tutorial: Detection of Differentially Interacting Chromatin Regions From Multiple Hi-C Datasets. Curr Protoc Bioinformatics.** 2019 May 24. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31125519), [DOI](https://doi.org/10.1002/cpbi.76) <span data-badge-type="4" data-doi="10.1002/cpbi.76" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
