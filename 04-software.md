@@ -11,7 +11,7 @@ permalink: "software.html"
 We implement our methods as the R packages deployed on [Bioconductor](http://www.bioconductor.org).
 
 **TADcompare** - An R package for differential analysis and characterization of Topologically Associated Domains
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/TADCompare) ]
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/TADCompare), [Paper](https://www.frontiersin.org/articles/10.3389/fgene.2020.00158/full) ]
 
 **SpectralTAD** - An R package for calling Topologically Associated Domains (TADs) using spectral clustering
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/SpectralTAD.html),  [GitHub](https://github.com/dozmorovlab/SpectralTAD), [Preprint](https://www.biorxiv.org/content/10.1101/549170v3)]
