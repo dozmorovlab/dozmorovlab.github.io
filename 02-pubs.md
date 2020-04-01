@@ -58,6 +58,10 @@ permalink: "publications.html"
 
 ## Collaborative publications
 
+- Kronfol MM, Jahr FM, Dozmorov MG, Phansalkar PS, Xie LY, Aberg KA, McRae M, Price ET, Slattum PW, Gerk PM, McClay JL. **DNA methylation and histone acetylation changes to cytochrome P450 2E1 regulation in normal aging and impact on rates of drug metabolism in the liver**. _Geroscience_. 2020 Mar 27. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32221779), [DOI](https://doi.org/10.1016/j.pharmthera.2012.12.007) <span data-badge-type="4" data-doi="10.1016/j.pharmthera.2012.12.007" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Saunders JM, Moreno JL, Ibi D, Sikaroodi M, Kang DJ, Munoz-Moreno R, Dalmet SS, Garcia-Sastre A, Gillevet PM, Dozmorov MG, Bajaj JS, Gonzalez-Maeso J. **Gut microbiota manipulation during the prepubertal period shapes behavioral abnormalities in a mouse neurodevelopmental disorder model**. _Sci Rep_. 2020 Mar 13. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32170216), [DOI](https://doi.org/10.1038/s41598-020-61635-6) <span data-badge-type="4" data-doi="10.1038/s41598-020-61635-6" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 - Wang D, Naydenov NG, Dozmorov MG, Koblinski JE, Ivanov AI. **Anillin regulates breast cancer cell migration, growth, and metastasis by non-canonical mechanisms involving control of cell stemness and differentiation.** _Breast Cancer Res_. 2020 Jan 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31910867), [DOI](https://doi.org/10.1186/s13058-019-1241-x) <span data-badge-type="4" data-doi="10.1186/s13058-019-1241-x" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Mirshahi F, Aqbi HF, Cresswell K, Saneshaw M, Coleman C, Jacobs T, Idowu MO, Dozmorov M, Sanyal AJ, Manjili MH. **Longitudinal studies can identify distinct inflammatory cytokines associated with the inhibition or progression of liver cancer.** _Liver Int_. 2019 Dec 10. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31821689), [DOI](https://doi.org/10.1111/liv.14323) <span data-badge-type="4" data-doi="10.1111/liv.14323" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
