@@ -18,6 +18,13 @@ GitHub: [mdozmorov](https://github.com/mdozmorov) | [Google Scholar](http://scho
 <br>
 <br>
 
+<img alt="Spiro Stilianoudakis" align="left" src="media/people/240px-Missing_avatar.svg.png" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;Spiro Stilianoudakis, Ph.D. candidate  
+&nbsp;&nbsp;&nbsp;Graduate student, 2017-present  
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [stilianoudakis](https://github.com/stilianoudakis)   
+<br>
+<br>
 <br>
 
 ## Alumni
