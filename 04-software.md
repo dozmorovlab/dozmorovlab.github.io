@@ -10,17 +10,17 @@ permalink: "software.html"
 
 We implement our methods as the R packages deployed on [Bioconductor](http://www.bioconductor.org).
 
-**TADcompare** - An R package for differential analysis and characterization of Topologically Associated Domains
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/TADCompare), [Paper](https://www.frontiersin.org/articles/10.3389/fgene.2020.00158/full) ]
+**HiCcompare** - An R package for the joint normalization and differential analysis of pairs of chromatin interaction matrices obtained from Hi-C sequencing
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/HiCcompare/), [GitHub](https://github.com/dozmorovlab/HiCcompare), [Preprint](https://www.biorxiv.org/content/10.1101/147850v2), [Paper](http://www.ncbi.nlm.nih.gov/pubmed/30064362) ]
+
+**multiHiCcompare** - An R package for the joint normalization of multiple Hi-C datasets and comparative analysis of complex Hi-C experiments
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/multiHiCcompare/), [GitHub](https://github.com/dozmorovlab/multHiCcompare), [Paper](http://www.ncbi.nlm.nih.gov/pubmed/30668639) ]
 
 **SpectralTAD** - An R package for calling Topologically Associated Domains (TADs) using spectral clustering
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/SpectralTAD.html),  [GitHub](https://github.com/dozmorovlab/SpectralTAD), [Preprint](https://www.biorxiv.org/content/10.1101/549170v3)]
 
-**multiHiCcompare** - An R package for the joint normalization of multiple Hi-C datasets and comparative analysis of complex Hi-C experiments
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/multiHiCcompare.html), [GitHub](https://github.com/dozmorovlab/multHiCcompare), [Paper](http://www.ncbi.nlm.nih.gov/pubmed/30668639) ]
-
-**HiCcompare** - An R package for joint normalization and differential analysis of chromatin interactions obtained from Hi-C sequencing
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/HiCcompare.html), [GitHub](https://github.com/dozmorovlab/HiCcompare), [Preprint](https://www.biorxiv.org/content/10.1101/147850v2), [Paper](http://www.ncbi.nlm.nih.gov/pubmed/30064362) ]
+**TADcompare** - An R package for differential and time course analysis of Topologically Associated Domains
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/TADCompare), [Paper](https://www.frontiersin.org/articles/10.3389/fgene.2020.00158/full) ]
 
 **HMP2data** - An R package for data access from the integrative Human Microbiome data portal
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/devel/data/experiment/html/HMP2Data.html), [GitHub](https://github.com/dozmorovlab/HMP2Data) ]
