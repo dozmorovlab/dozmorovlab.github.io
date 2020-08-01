@@ -14,15 +14,9 @@ permalink: "publications.html"
 [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/mikhail.dozmorov.1/bibliography/public/) | 
 [ORCID](https://orcid.org/0000-0002-0086-8358) 
 
-## Preprints
-
--	Kellen G. Cresswell, John C. Stansfield, Mikhail G. Dozmorov<sup>&lowast;</sup>. **SpectralTAD: an R package for defining a hierarchy of Topologically Associated Domains using spectral clustering.** _bioRxiv_, [DOI](https://doi.org/10.1101/549170) <span data-badge-type="4" data-doi="10.1101/549170" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
-
--	Gowon O. McMichael, John Drake, Eric Sean Vornholt, Kellen Cresswell, Vernell Williamson, Chris Chatzinakos, Mohammed Mamdani, Siddharth Hariharan, Kenneth S. Kendler, Michael F. Miles, Gursharan Kalsi, Brien P. Riley, Mikhail Dozmorov, Silviu-Alin Bacanu, Vladimir I. Vladimirov. **Assessing the role of long-noncoding RNA in nucleus accumbens in subjects with alcohol dependence.** _bioRxiv_, [DOI](https://doi.org/10.1101/583203) <span data-badge-type="4" data-doi="10.1101/583203" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
-
-- Jami M. Gurley, Grzegorz Gmyrek, Mark E. McClellan, Stefanie M. Hauck, Mikhail G. Dozmorov, Jonathan D. Wren, Daniel J. J. Carr, Michael H. Elliott. Neuroretinal-derived caveolin-1 promotes endotoxin-induced inflammation in the murine retina.** _bioRxiv_, [DOI](https://doi.org/10.1101/2020.01.08.899377) <span data-badge-type="4" data-doi="10.1101/2020.01.08.899377" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
-
 ## Group publications
+
+-	Cresswell KG, Stansfield JS, Dozmorov MG<sup>&lowast;</sup>. **SpectralTAD: an R package for defining a hierarchy of Topologically Associated Domains using spectral clustering.** _bioRxiv_, [DOI](https://doi.org/10.1186/s12859-020-03652-w) <span data-badge-type="4" data-doi="10.1186/s12859-020-03652-w" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Cresswell KG, Dozmorov MG<sup>&lowast;</sup>. **TADCompare: An R Package for Differential and Temporal Analysis of Topologically Associated Domains**. _Front Genet_. 2020 Mar 10. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32211023), [DOI](https://doi.org/10.3389/fgene.2020.00158) <span data-badge-type="4" data-doi="10.3389/fgene.2020.00158" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
@@ -58,6 +52,12 @@ permalink: "publications.html"
 
 ## Collaborative publications
 
+- Patel VI, Booth JL, Dozmorov M, Brown BR, Metcalf JP. **Anthrax Edema and Lethal Toxins Differentially Target Human Lung and Blood Phagocytes**. _Toxins (Basel)_. 2020 Jul 20. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32698436), [DOI](https://doi.org/10.3390/toxins12070464) <span data-badge-type="4" data-doi="10.3390/toxins12070464" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Joachims ML, Leehan KM, Dozmorov MG, Georgescu C, Pan Z, Lawrence C, Marlin MC, Macwana S, Rasmussen A, Radfar L, Lewis DM, Stone DU, Grundahl K, Scofield RH, Lessard CJ, Wren JD, Thompson LF, Guthridge JM, Sivils KL, Moore JS, Farris AD. **Sjögren's Syndrome Minor Salivary Gland CD4+ Memory T Cells Associate with Glandular Disease Features and have a Germinal Center T Follicular Helper Transcriptional Profile**. _J Clin Med_. 2020 Jul 8. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32650575), [DOI](https://doi.org/10.3390/jcm9072164) <span data-badge-type="4" data-doi="10.3390/jcm9072164" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Cai Q, Dozmorov M, Oh Y. **IGFBP-3/IGFBP-3 Receptor System as an Anti-Tumor and Anti-Metastatic Signaling in Cancer**. _Cells_. 2020 May 20. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32443727), [DOI](https://doi.org/10.3390/cells9051261) <span data-badge-type="4" data-doi="10.3390/cells9051261" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
 - Kronfol MM, Jahr FM, Dozmorov MG, Phansalkar PS, Xie LY, Aberg KA, McRae M, Price ET, Slattum PW, Gerk PM, McClay JL. **DNA methylation and histone acetylation changes to cytochrome P450 2E1 regulation in normal aging and impact on rates of drug metabolism in the liver**. _Geroscience_. 2020 Mar 27. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32221779), [DOI](https://doi.org/10.1016/j.pharmthera.2012.12.007) <span data-badge-type="4" data-doi="10.1016/j.pharmthera.2012.12.007" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Saunders JM, Moreno JL, Ibi D, Sikaroodi M, Kang DJ, Munoz-Moreno R, Dalmet SS, Garcia-Sastre A, Gillevet PM, Dozmorov MG, Bajaj JS, Gonzalez-Maeso J. **Gut microbiota manipulation during the prepubertal period shapes behavioral abnormalities in a mouse neurodevelopmental disorder model**. _Sci Rep_. 2020 Mar 13. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32170216), [DOI](https://doi.org/10.1038/s41598-020-61635-6) <span data-badge-type="4" data-doi="10.1038/s41598-020-61635-6" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -83,6 +83,7 @@ permalink: "publications.html"
 - Towner RA, Smith N, Saunders D, Brown CA, Cai X, Ziegler J, Mallory S, Dozmorov MG, Coutinho De Souza P, Wiley G, Kim K, Kang S, Kong DS, Kim YT, Fung KM, Wren JD, Battiste J. **OKN-007 Increases temozolomide (TMZ) Sensitivity and Suppresses TMZ-Resistant Glioblastoma (GBM) Tumor Growth.** _Transl Oncol_. 2018 Nov 20. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30468988), [DOI](https://doi.org/10.1016/j.tranon.2018.10.002) <span data-badge-type="4" data-doi="10.1016/j.tranon.2018.10.002" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Iness AN, Felthousen J, Ananthapadmanabhan V, Sesay F, Saini S, Guiley KZ, Rubin SM, Dozmorov M, Litovchick L. **The cell cycle regulatory DREAM complex is disrupted by high expression of oncogenic B-Myb.** _Oncogene_. 2018 Sep 11. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30206359), [DOI](https://doi.org/10.1038/s41388-018-0490-y) <span data-badge-type="4" data-doi="10.1038/s41388-018-0490-y" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
 - Mazzini GS, Khoraki J, Dozmorov M, Browning MG, Wijesinghe D, Wolfe L, Gurski RR, Campos GM. **Concomitant PPARα and FXR Activation as a Putative Mechanism of NASH Improvement after Gastric Bypass Surgery: a GEO Datasets Analysis.** _J Gastrointest Surg._ 2018 Sep 11. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30206765), [DOI](https://doi.org/10.1007/s11605-018-3938-z) <span data-badge-type="4" data-doi="10.1007/s11605-018-3938-z" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Robertson CL, Mendoza RG, Jariwala N, Dozmorov M, Mukhopadhyay ND, Subler MA, Windle JJ, Lai Z, Fisher PB, Ghosh S, Sarkar D. **Astrocyte Elevated Gene-1 Regulates Macrophage Activation in Hepatocellular Carcinogenesis.** _Cancer Res_. 2018 Sep 4. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30181179), [DOI](https://doi.org/10.1158/0008-5472.CAN-18-0659) <span data-badge-type="4" data-doi="10.1158/0008-5472.CAN-18-0659" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
@@ -234,3 +235,10 @@ permalink: "publications.html"
 <!--
 <sup>&dagger;</sup> indicates equal contribution   
 -->
+
+## Preprints
+
+-	Gowon O. McMichael, John Drake, Eric Sean Vornholt, Kellen Cresswell, Vernell Williamson, Chris Chatzinakos, Mohammed Mamdani, Siddharth Hariharan, Kenneth S. Kendler, Michael F. Miles, Gursharan Kalsi, Brien P. Riley, Mikhail Dozmorov, Silviu-Alin Bacanu, Vladimir I. Vladimirov. **Assessing the role of long-noncoding RNA in nucleus accumbens in subjects with alcohol dependence.** _bioRxiv_, [DOI](https://doi.org/10.1101/583203) <span data-badge-type="4" data-doi="10.1101/583203" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Jami M. Gurley, Grzegorz Gmyrek, Mark E. McClellan, Stefanie M. Hauck, Mikhail G. Dozmorov, Jonathan D. Wren, Daniel J. J. Carr, Michael H. Elliott. Neuroretinal-derived caveolin-1 promotes endotoxin-induced inflammation in the murine retina.** _bioRxiv_, [DOI](https://doi.org/10.1101/2020.01.08.899377) <span data-badge-type="4" data-doi="10.1101/2020.01.08.899377" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
