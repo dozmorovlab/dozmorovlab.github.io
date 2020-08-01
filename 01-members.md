@@ -11,7 +11,7 @@ permalink: "members.html"
 &nbsp;&nbsp;&nbsp;Associate Professor, [Department of Biostatistics](https://biostatistics.vcu.edu/)  
 &nbsp;&nbsp;&nbsp;Affiliate, [Department of Pathology](https://pathology.vcu.edu/)  
 &nbsp;&nbsp;&nbsp;Virginia Commonwealth University  
-&nbsp;&nbsp;&nbsp;[CV](./files/Dozmorov_M-CV.pdf)  
+<!-- &nbsp;&nbsp;&nbsp;[CV](./files/Dozmorov_M-CV.pdf) -->  
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@mikhaildozmorov](https://twitter.com/mikhaildozmorov) |
 GitHub: [mdozmorov](https://github.com/mdozmorov) | [Google Scholar](http://scholar.google.com/citations?user=soABR8sAAAAJ&hl=en) | [LinkedIn](http://www.linkedin.com/in/dozmorov/) | [Faculty profile](https://medschool.vcu.edu/expertise/detail.html?id=mdozmorov)
