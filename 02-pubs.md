@@ -16,11 +16,11 @@ permalink: "publications.html"
 
 ## Group publications
 
--	Cresswell KG, Stansfield JS, Dozmorov MG<sup>&lowast;</sup>. **SpectralTAD: an R package for defining a hierarchy of Topologically Associated Domains using spectral clustering.** _bioRxiv_, [DOI](https://doi.org/10.1186/s12859-020-03652-w) <span data-badge-type="4" data-doi="10.1186/s12859-020-03652-w" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+- Cresswell KG, Stansfield JS, Dozmorov MG<sup>&lowast;</sup>. **SpectralTAD: An R Package for Defining a Hierarchy of Topologically Associated Domains Using Spectral Clustering.** _BMC Bioinformatics_ 21, no. 1 (December 2020): 319. [DOI](https://doi.org/10.1186/s12859-020-03652-w) <span data-badge-type="4" data-doi="10.1186/s12859-020-03652-w" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Cresswell KG, Dozmorov MG<sup>&lowast;</sup>. **TADCompare: An R Package for Differential and Temporal Analysis of Topologically Associated Domains**. _Front Genet_. 2020 Mar 10. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32211023), [DOI](https://doi.org/10.3389/fgene.2020.00158) <span data-badge-type="4" data-doi="10.3389/fgene.2020.00158" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-- Stansfield JC, Tran D, Nguyen T, Dozmorov MG<sup>&lowast;</sup>. **R Tutorial: Detection of Differentially Interacting Chromatin Regions From Multiple Hi-C Datasets. Curr Protoc Bioinformatics.** _Curr Protoc Bioinformatics_. 2019 May 24. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31125519), [DOI](https://doi.org/10.1002/cpbi.76) <span data-badge-type="4" data-doi="10.1002/cpbi.76" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+- Stansfield JC, Tran D, Nguyen T, Dozmorov MG<sup>&lowast;</sup>. **R Tutorial: Detection of Differentially Interacting Chromatin Regions From Multiple Hi-C Datasets.** _Curr Protoc Bioinformatics_. 2019 May 24. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/31125519), [DOI](https://doi.org/10.1002/cpbi.76) <span data-badge-type="4" data-doi="10.1002/cpbi.76" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Stansfield JC, Cresswell KG, Dozmorov MG<sup>&lowast;</sup>. **multiHiCcompare: joint normalization and comparative analysis of complex Hi-C experiments.** _Bioinformatics_. 2019 Jan 22. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30668639), [DOI](https://doi.org/10.1093/bioinformatics/btz048) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btz048" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
