@@ -10,16 +10,18 @@ permalink: "software.html"
 
 We implement our methods as the R packages deployed on [Bioconductor](http://www.bioconductor.org).
 
-**TADcompare** - An R package for differential and time course analysis of Topologically Associated Domains
+
+
+[TADcompare](https://bioconductor.org/packages/TADCompare/) - An R package for differential and time course analysis of Topologically Associated Domains
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/TADCompare/), [GitHub](https://github.com/dozmorovlab/TADCompare), [Paper](https://doi.org/10.3389/fgene.2020.00158) ]
 
-**SpectralTAD** - An R package for calling Topologically Associated Domains (TADs) using spectral clustering
+[SpectralTAD](https://bioconductor.org/packages/SpectralTAD/) - An R package for calling Topologically Associated Domains (TADs) using spectral clustering
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/SpectralTAD/),  [GitHub](https://github.com/dozmorovlab/SpectralTAD), [Preprint](https://www.biorxiv.org/content/10.1101/549170v3), [Paper](https://doi.org/10.1186/s12859-020-03652-w) ]
 
-**multiHiCcompare** - An R package for the joint normalization of multiple Hi-C datasets and comparative analysis of complex Hi-C experiments
+[multiHiCcompare](https://bioconductor.org/packages/multiHiCcompare/) - An R package for the joint normalization of multiple Hi-C datasets and comparative analysis of complex Hi-C experiments
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/multiHiCcompare/), [GitHub](https://github.com/dozmorovlab/multHiCcompare), [Paper](https://doi.org/10.1093/bioinformatics/btz048) ]
 
-**HiCcompare** - An R package for the joint normalization and differential analysis of pairs of chromatin interaction matrices obtained from Hi-C sequencing
+[HiCcompare](https://bioconductor.org/packages/HiCcompare/) - An R package for the joint normalization and differential analysis of pairs of chromatin interaction matrices obtained from Hi-C sequencing
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/HiCcompare/), [GitHub](https://github.com/dozmorovlab/HiCcompare), [Preprint](https://www.biorxiv.org/content/10.1101/147850v2), [Paper](https://doi.org/10.1186/s12859-018-2288-x) ]
 
 **HMP2data** - An R package for data access from the integrative Human Microbiome data portal
