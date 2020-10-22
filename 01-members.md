@@ -14,7 +14,7 @@ permalink: "members.html"
 <!-- &nbsp;&nbsp;&nbsp;[CV](./files/Dozmorov_M-CV.pdf) -->  
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@mikhaildozmorov](https://twitter.com/mikhaildozmorov) |
-GitHub: [mdozmorov](https://github.com/mdozmorov) | [Google Scholar](http://scholar.google.com/citations?user=soABR8sAAAAJ&hl=en) | [LinkedIn](http://www.linkedin.com/in/dozmorov/) | [Faculty profile](https://medschool.vcu.edu/expertise/detail.html?id=mdozmorov)
+GitHub: [mdozmorov](https://github.com/mdozmorov) | [Google Scholar](http://scholar.google.com/citations?user=soABR8sAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-0086-8358) | [LinkedIn](http://www.linkedin.com/in/dozmorov/) | [Faculty profile](https://medschool.vcu.edu/expertise/detail.html?id=mdozmorov)
 <br>
 <br>
 
