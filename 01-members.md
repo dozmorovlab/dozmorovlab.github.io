@@ -6,19 +6,27 @@ permalink: "members.html"
 ---
 {% include JB/setup %}
 
-<img alt="Mikhail Dozmorov" align="left" src="media/people/IMG_20200110_102120_crop2.jpg" width="100" height="100"/>
+<img alt="Mikhail Dozmorov" align="left" src="media/people/MikhailDozmorov.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Mikhail Dozmorov, Ph.D., Blick Scholar  
 &nbsp;&nbsp;&nbsp;Associate Professor, [Department of Biostatistics](https://biostatistics.vcu.edu/)  
 &nbsp;&nbsp;&nbsp;Affiliate, [Department of Pathology](https://pathology.vcu.edu/)  
 &nbsp;&nbsp;&nbsp;Virginia Commonwealth University  
 <!-- &nbsp;&nbsp;&nbsp;[CV](./files/Dozmorov_M-CV.pdf) -->  
-<br>
 &nbsp;&nbsp;&nbsp;Twitter: [@mikhaildozmorov](https://twitter.com/mikhaildozmorov) |
 GitHub: [mdozmorov](https://github.com/mdozmorov) | [Google Scholar](http://scholar.google.com/citations?user=soABR8sAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-0086-8358) | [LinkedIn](http://www.linkedin.com/in/dozmorov/) | [Faculty profile](https://medschool.vcu.edu/expertise/detail.html?id=mdozmorov)
 <br>
 <br>
 
-<img alt="Spiro Stilianoudakis" align="left" src="media/people/20180630_214327.jpg" width="100" height="100"/>
+<img alt="Tyler Steele" align="left" src="media/people/TylerSteele.jpg" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;Tyler Steele, Ph.D.  
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow, 2020-present  
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [twesteele](https://github.com/twesteele)   
+<br>
+<br>
+<br>
+
+<img alt="Spiro Stilianoudakis" align="left" src="media/people/SpiroStilianoudakis.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Spiro Stilianoudakis, Ph.D. candidate  
 &nbsp;&nbsp;&nbsp;Graduate student, 2017-present  
 <br>
