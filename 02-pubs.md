@@ -56,15 +56,9 @@ permalink: "publications.html"
 
 ## Collaborative publications
 
-- Clark NM, Martinez LM, Murdock S, deLigio JT, Olex AL, Effi C, Dozmorov MG,
-Bos PD. **Regulatory T Cells Support Breast Cancer Progression by Opposing IFN-γ-
-Dependent Functional Reprogramming of Myeloid Cells.** _Cell Rep._ 2020 Dec
-8. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33296659), [DOI](https://doi.org/10.1016/j.celrep.2020.108482) <span data-badge-type="4" data-doi="10.1016/j.celrep.2020.108482" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+- Clark NM, Martinez LM, Murdock S, deLigio JT, Olex AL, Effi C, Dozmorov MG, Bos PD. **Regulatory T Cells Support Breast Cancer Progression by Opposing IFN-γ- Dependent Functional Reprogramming of Myeloid Cells.** _Cell Rep._ 2020 Dec 8. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33296659), [DOI](https://doi.org/10.1016/j.celrep.2020.108482) <span data-badge-type="4" data-doi="10.1016/j.celrep.2020.108482" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
-- Gurley JM, Gmyrek GB, McClellan ME, Hargis EA, Hauck SM, Dozmorov MG, Wren
-JD, Carr DJJ, Elliott MH. Neuroretinal-Derived **Caveolin-1 Promotes Endotoxin-
-Induced Inflammation in the Murine Retina.** _Invest Ophthalmol Vis Sci._ 2020 Oct
-1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33079993), [DOI](https://doi.org/10.1167/iovs.61.12.19) <span data-badge-type="4" data-doi="10.1167/iovs.61.12.19" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+- Gurley JM, Gmyrek GB, McClellan ME, Hargis EA, Hauck SM, Dozmorov MG, Wren JD, Carr DJJ, Elliott MH. Neuroretinal-Derived **Caveolin-1 Promotes Endotoxin-Induced Inflammation in the Murine Retina.** _Invest Ophthalmol Vis Sci._ 2020 Oct 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33079993), [DOI](https://doi.org/10.1167/iovs.61.12.19) <span data-badge-type="4" data-doi="10.1167/iovs.61.12.19" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
 
 - Drake J, McMichael GO, Vornholt ES, Cresswell K, Williamson V, Chatzinakos C, Mamdani M, Hariharan S, Kendler KS, Kalsi G, Riley BP, Dozmorov MG, Miles MF, Bacanu SA, Vladimirov VI. **Assessing the Role of Long-Noncoding RNA in Nucleus Accumbens in Subjects with Alcohol Dependence.** _Alcohol Clin Exp Res._ 2020 Oct 17. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33067813), [DOI](https://doi.org/10.1111/acer.14479) <span data-badge-type="4" data-doi="10.1111/acer.14479" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
