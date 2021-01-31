@@ -16,6 +16,8 @@ permalink: "publications.html"
 
 ## Group publications
 
+- Dozmorov MG<sup>&lowast;</sup>, Cresswell KG, Bacanu SA, Craver C, Reimers M, Kendler KS. **A method for estimating coherence of molecular mechanisms in major human disease and traits.** _BMC Bioinformatics._ 2020 Oct 21. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33087046), [DOI](https://doi.org/10.1186/s12859-020-03821-x) <span data-badge-type="4" data-doi="10.1186/s12859-020-03821-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 - Stilianoudakis S, Dozmorov MG<sup>&lowast;</sup>. **preciseTAD: A machine learning framework for precise 3D domain boundary prediction at base-level resolution** _bioRxiv_ (September 4, 2020). [DOI](https://doi.org/10.1101/2020.09.03.282186) <span data-badge-type="4" data-doi="10.1101/2020.09.03.282186" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Cresswell KG, Stansfield JS, Dozmorov MG<sup>&lowast;</sup>. **SpectralTAD: An R Package for Defining a Hierarchy of Topologically Associated Domains Using Spectral Clustering.** _BMC Bioinformatics_ 21, no. 1 (December 2020): 319. [DOI](https://doi.org/10.1186/s12859-020-03652-w) <span data-badge-type="4" data-doi="10.1186/s12859-020-03652-w" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
@@ -53,6 +55,18 @@ permalink: "publications.html"
 - Dozmorov MG<sup>&lowast;</sup>, Giles CB, Koelsch KA, Wren JD. **Systematic classification of non-coding RNAs by epigenomic similarity.** _BMC Bioinformatics_. 2013, Oct 9. Best paper of the MCBIOS X conference. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24267974), [DOI](https://doi.org/10.1186/1471-2105-14-S14-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-14-S14-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 ## Collaborative publications
+
+- Clark NM, Martinez LM, Murdock S, deLigio JT, Olex AL, Effi C, Dozmorov MG,
+Bos PD. **Regulatory T Cells Support Breast Cancer Progression by Opposing IFN-γ-
+Dependent Functional Reprogramming of Myeloid Cells.** _Cell Rep._ 2020 Dec
+8. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33296659), [DOI](https://doi.org/10.1016/j.celrep.2020.108482) <span data-badge-type="4" data-doi="10.1016/j.celrep.2020.108482" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Gurley JM, Gmyrek GB, McClellan ME, Hargis EA, Hauck SM, Dozmorov MG, Wren
+JD, Carr DJJ, Elliott MH. Neuroretinal-Derived **Caveolin-1 Promotes Endotoxin-
+Induced Inflammation in the Murine Retina.** _Invest Ophthalmol Vis Sci._ 2020 Oct
+1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33079993), [DOI](https://doi.org/10.1167/iovs.61.12.19) <span data-badge-type="4" data-doi="10.1167/iovs.61.12.19" data-hide-no-mentions="true" class="altmetric-embed"> </span>  
+
+- Drake J, McMichael GO, Vornholt ES, Cresswell K, Williamson V, Chatzinakos C, Mamdani M, Hariharan S, Kendler KS, Kalsi G, Riley BP, Dozmorov MG, Miles MF, Bacanu SA, Vladimirov VI. **Assessing the Role of Long-Noncoding RNA in Nucleus Accumbens in Subjects with Alcohol Dependence.** _Alcohol Clin Exp Res._ 2020 Oct 17. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33067813), [DOI](https://doi.org/10.1111/acer.14479) <span data-badge-type="4" data-doi="10.1111/acer.14479" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Patel VI, Booth JL, Dozmorov M, Brown BR, Metcalf JP. **Anthrax Edema and Lethal Toxins Differentially Target Human Lung and Blood Phagocytes**. _Toxins (Basel)_. 2020 Jul 20. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/32698436), [DOI](https://doi.org/10.3390/toxins12070464) <span data-badge-type="4" data-doi="10.3390/toxins12070464" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
