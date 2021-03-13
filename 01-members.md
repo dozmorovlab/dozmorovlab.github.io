@@ -26,16 +26,17 @@ GitHub: [mdozmorov](https://github.com/mdozmorov) | [Google Scholar](http://scho
 <br>
 <br>
 
+## Alumni
+
 <img alt="Spiro Stilianoudakis" align="left" src="media/people/SpiroStilianoudakis.jpg" width="100" height="100"/>
-&nbsp;&nbsp;&nbsp;Spiro Stilianoudakis, Ph.D. candidate  
-&nbsp;&nbsp;&nbsp;Graduate student, 2017-present  
+&nbsp;&nbsp;&nbsp;Spiro Stilianoudakis, Ph.D.   
+&nbsp;&nbsp;&nbsp;Graduate student, 2017-2021  
+&nbsp;&nbsp;&nbsp;First job: Scientist at Procter & Gamble  
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [stilianoudakis](https://github.com/stilianoudakis)   
 <br>
 <br>
 <br>
-
-## Alumni
 
 <img alt="Katarzyna Tyc" align="left" src="media/people/KatarzynaTyc.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Katarzyna Tyc, Ph.D.  
