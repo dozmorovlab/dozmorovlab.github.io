@@ -16,6 +16,8 @@ permalink: "publications.html"
 
 ## Group publications
 
+- Dozmorov MG, Tyc KM, Sheffield NC, Boyd DC, Olex AL, Reed J, Harrell JC. **Chromatin conformation capture (Hi-C) sequencing of patient-derived xenografts: analysis guidelines**. _Gigascience_. 2021 Apr 21, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33880552/), [DOI](https://doi.org/10.1093/gigascience/giab022) <span data-badge-type="4" data-doi="10.1093/gigascience/giab022" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
 - Dozmorov MG<sup>&lowast;</sup>, Cresswell KG, Bacanu SA, Craver C, Reimers M, Kendler KS. **A method for estimating coherence of molecular mechanisms in major human disease and traits.** _BMC Bioinformatics._ 2020 Oct 21. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33087046), [DOI](https://doi.org/10.1186/s12859-020-03821-x) <span data-badge-type="4" data-doi="10.1186/s12859-020-03821-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Stilianoudakis S, Dozmorov MG<sup>&lowast;</sup>. **preciseTAD: A machine learning framework for precise 3D domain boundary prediction at base-level resolution** _bioRxiv_ (September 4, 2020). [DOI](https://doi.org/10.1101/2020.09.03.282186) <span data-badge-type="4" data-doi="10.1101/2020.09.03.282186" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -55,6 +57,12 @@ permalink: "publications.html"
 - Dozmorov MG<sup>&lowast;</sup>, Giles CB, Koelsch KA, Wren JD. **Systematic classification of non-coding RNAs by epigenomic similarity.** _BMC Bioinformatics_. 2013, Oct 9. Best paper of the MCBIOS X conference. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24267974), [DOI](https://doi.org/10.1186/1471-2105-14-S14-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-14-S14-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 ## Collaborative publications
+
+- Bekhbat M, Mukhara D, Dozmorov MG, Stansfield JC, Benusa SD, Hyer MM, Rowson SA, Kelly SD, Qin Z, Dupree JL, Tharp GK, Tansey MG, Neigh GN. **Adolescent stress sensitizes the adult neuroimmune transcriptome and leads to sex-specific microglial and behavioral phenotypes**. _Neuropsychopharmacology_. 2021 Apr, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33558677/), [DOI](https://doi.org/10.1038/s41386-021-00970-2) <span data-badge-type="4" data-doi="10.1038/s41386-021-00970-2" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Dalton KM, Lochmann TL, Floros KV, Calbert ML, Kurupi R, Stein GT, McClanaghan J, Murchie E, Egan RK, Greninger P, Dozmorov M, Ramamoorthy S, Puchalapalli M, Hu B, Shock L, Koblinski J, Glod J, Boikos SA, Benes CH, Faber AC. **Catastrophic ATP loss underlies a metabolic combination therapy tailored for MYCN-amplified neuroblastoma**. _Proc Natl Acad Sci U S A_. 2021 Mar 30, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33762304/), [DOI](https://doi.org/10.1073/pnas.2009620118) <span data-badge-type="4" data-doi="10.1073/pnas.2009620118" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Iness AN, Rubinsak L, Meas SJ, Chaoul J, Sayeed S, Pillappa R, Temkin SM, Dozmorov MG, Litovchick L. **Oncogenic B-Myb Is Associated With Deregulation of the DREAM-Mediated Cell Cycle Gene Expression Program in High Grade Serous Ovarian Carcinoma Clinical Tumor Samples**. _Front Oncol._ 2021 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33747961/), [DOI](https://doi.org/10.3389/fonc.2021.637193) <span data-badge-type="4" data-doi="10.3389/fonc.2021.637193" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Floros KV, Jacob S, Kurupi R, Fairchild CK, Hu B, Puchalapalli M, E Koblinski J, Dozmorov MG, Boikos SA, Scaltriti M, Faber AC. **Targeting transcription of MCL-1 sensitizes HER2-amplified breast cancers to HER2 inhibitor**. _Cell Death Dis_. 2021 Feb 15. [PMID](https://pubmed.ncbi.nlm.nih.gov/33589591/), [DOI](https://doi.org/10.1038/s41419-021-03457-6) <span data-badge-type="4" data-doi="10.1038/s41419-021-03457-6" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
