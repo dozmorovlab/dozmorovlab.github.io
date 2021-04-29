@@ -58,8 +58,6 @@ permalink: "publications.html"
 
 ## Collaborative publications
 
-- Bekhbat M, Mukhara D, Dozmorov MG, Stansfield JC, Benusa SD, Hyer MM, Rowson SA, Kelly SD, Qin Z, Dupree JL, Tharp GK, Tansey MG, Neigh GN. **Adolescent stress sensitizes the adult neuroimmune transcriptome and leads to sex-specific microglial and behavioral phenotypes**. _Neuropsychopharmacology_. 2021 Apr, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33558677/), [DOI](https://doi.org/10.1038/s41386-021-00970-2) <span data-badge-type="4" data-doi="10.1038/s41386-021-00970-2" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
-
 - Dalton KM, Lochmann TL, Floros KV, Calbert ML, Kurupi R, Stein GT, McClanaghan J, Murchie E, Egan RK, Greninger P, Dozmorov M, Ramamoorthy S, Puchalapalli M, Hu B, Shock L, Koblinski J, Glod J, Boikos SA, Benes CH, Faber AC. **Catastrophic ATP loss underlies a metabolic combination therapy tailored for MYCN-amplified neuroblastoma**. _Proc Natl Acad Sci U S A_. 2021 Mar 30, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33762304/), [DOI](https://doi.org/10.1073/pnas.2009620118) <span data-badge-type="4" data-doi="10.1073/pnas.2009620118" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Iness AN, Rubinsak L, Meas SJ, Chaoul J, Sayeed S, Pillappa R, Temkin SM, Dozmorov MG, Litovchick L. **Oncogenic B-Myb Is Associated With Deregulation of the DREAM-Mediated Cell Cycle Gene Expression Program in High Grade Serous Ovarian Carcinoma Clinical Tumor Samples**. _Front Oncol._ 2021 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33747961/), [DOI](https://doi.org/10.3389/fonc.2021.637193) <span data-badge-type="4" data-doi="10.3389/fonc.2021.637193" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
