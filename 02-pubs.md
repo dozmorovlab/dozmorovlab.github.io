@@ -14,7 +14,7 @@ permalink: "publications.html"
 [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/mikhail.dozmorov.1/bibliography/public/) | 
 [ORCID](https://orcid.org/0000-0002-0086-8358) 
 
-## Group publications
+## Lead/senior author publications
 
 - Dozmorov MG, Tyc KM, Sheffield NC, Boyd DC, Olex AL, Reed J, Harrell JC. **Chromatin conformation capture (Hi-C) sequencing of patient-derived xenografts: analysis guidelines**. _Gigascience_. 2021 Apr 21, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33880552/), [DOI](https://doi.org/10.1093/gigascience/giab022) <span data-badge-type="4" data-doi="10.1093/gigascience/giab022" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
@@ -38,9 +38,15 @@ permalink: "publications.html"
 
 - Dozmorov MG<sup>&lowast;</sup>. **Disease classification: from phenotypic similarity to integrative genomics and beyond.** _Brief Bioinform_. 2018 Jun 22. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29939197), [DOI](https://doi.org/10.1093/bib/bby049) <span data-badge-type="4" data-doi="10.1093/bib/bby049" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
+- Dozmorov MG, Bilbo SD, Kollins SH, Zucker N, Do EK, Schechter JC, Zhang JJ, Murphy SK, Hoyo C, Fuemmeler BF. **Associations between maternal cytokine levels during gestation and measures of child cognitive abilities and executive functioning.** _Brain Behav Immun_. 2018 Mar 26. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29588230), [DOI](https://doi.org/10.1016/j.bbi.2018.03.029) <span data-badge-type="4" data-doi="10.1016/j.bbi.2018.03.029" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 - Dozmorov MG<sup>&lowast;</sup>. **Epigenomic annotation-based interpretation of genomic data: from enrichment analysis to machine learning.** _Bioinformatics_. 2017 Oct 15. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29028263), [DOI](https://doi.org/10.1093/bioinformatics/btx414) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btx414" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
+- Dozmorov MG, Coit P, Maksimowicz-McKinnon K, Sawalha AH. **Age-associated DNA methylation changes in naive CD4+ T cells suggest an evolving autoimmune epigenotype in aging T cells.** _Epigenomics_. 2017. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28322571), [DOI](https://doi.org/10.2217/epi-2016-0143) <span data-badge-type="4" data-doi="10.2217/epi-2016-0143" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 - Glass ER, Dozmorov MG<sup>&lowast;</sup>. **Improving sensitivity of linear regression-based cell type-specific differential expression deconvolution with per-gene vs. global significance threshold.** _BMC Bioinformatics_ 2016 Oct 6. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27766949), [DOI](https://doi.org/10.1186/s12859-016-1226-z) <span data-badge-type="4" data-doi="10.1186/s12859-016-1226-z" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Coit P, Dozmorov MG<sup>&lowast;</sup>, Merrill JT, McCune J, Maksimowicz-McKinnon K, Wren JD, Sawalha AH. **Epigenetic reprogramming in naïve CD4+ T cells favors T cell activation and non-Th1 effector T cell immune response as an early event in lupus flares.** _Arthritis & Rheumatology_ 2016 Apr 25. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27111767), [DOI](https://doi.org/10.1002/art.39720) <span data-badge-type="4" data-doi="10.1002/art.39720" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - equal contribution
 
 - Dozmorov MG<sup>&lowast;</sup>, Cara LR, Giles CB, Wren JD. **GenomeRunner web server: Regulatory similarity and differences define the functional impact of SNP sets.** _Bioinformatics_ 2016 Apr 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27153607), [DOI](https://doi.org/10.1093/bioinformatics/btw169) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw169" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
@@ -50,11 +56,46 @@ permalink: "publications.html"
 
 - Dozmorov MG<sup>&lowast;</sup>. **Polycomb Repressive Complex 2 epigenomic signature defines age-associated hypermethylation and gene expression changes.** _Epigenetics_. 2015 Apr 16. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25880792), [DOI](https://doi.org/10.1080/15592294.2015.1040619) <span data-badge-type="4" data-doi="10.1080/15592294.2015.1040619" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
-- Dozmorov MG<sup>&lowast;</sup>, Cara LR, Giles CB, Wren JD. **GenomeRunner: automating genome exploration.** _Bioinformatics_. 2012 Feb 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22155868), [DOI](https://doi.org/10.1093/bioinformatics/btr666) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btr666" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+- Dozmorov MG, Yang Q, Wu W, Wren J, Suhail MM, Woolley CL, Young DG, Fung KM, Lin HK. **Differential effects of selective frankincense (Ru Xiang) essential oil versus non-selective sandalwood (Tan Xiang) essential oil on cultured bladder cancer cells: a microarray and bioinformatics study.** _Chin Med_. 2014 Jul 2. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25006348), [DOI](https://doi.org/10.1186/1749-8546-9-18) <span data-badge-type="4" data-doi="10.1186/1749-8546-9-18" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Dozmorov MG<sup>&lowast;</sup>, Wren JD, Alarcón-Riquelme ME. **Epigenomic elements enriched in the promoters of autoimmunity susceptibility genes.** _Epigenetics_. 2013 Nov 8. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24213554), [DOI](https://doi.org/10.4161/epi.27021) <span data-badge-type="4" data-doi="10.4161/epi.27021" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Dozmorov MG<sup>&lowast;</sup>, Giles CB, Koelsch KA, Wren JD. **Systematic classification of non-coding RNAs by epigenomic similarity.** _BMC Bioinformatics_. 2013, Oct 9. Best paper of the MCBIOS X conference. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24267974), [DOI](https://doi.org/10.1186/1471-2105-14-S14-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-14-S14-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Dozmorov MG<sup>&lowast;</sup>, Cara LR, Giles CB, Wren JD. **GenomeRunner: automating genome exploration.** _Bioinformatics_. 2012 Feb 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22155868), [DOI](https://doi.org/10.1093/bioinformatics/btr666) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btr666" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Delgado-Vega AM, Dozmorov MG<sup>&lowast;</sup>, Quirós MB, Wu YY, Martínez-García B, Kozyrev SV,Frostegård J, Truedsson L, de Ramón E, González-Escribano MF, Ortego-Centeno N,Pons-Estel BA, D'Alfonso S, Sebastiani GD, Witte T, Lauwerys BR, Endreffy E,Kovács L, Vasconcelos C, da Silva BM, Wren JD, Martin J, Castillejo-López C, Alarcón-Riquelme ME. **Fine mapping and conditional analysis identify a new mutation in the autoimmunity susceptibility gene BLK that leads to reduced half-life of the BLK protein.** _Ann Rheum Dis_. 2012 jul 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22696686), [DOI](https://doi.org/10.1136/annrheumdis-2011-200987) <span data-badge-type="4" data-doi="10.1136/annrheumdis-2011-200987" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - equal contribution
+
+- Dozmorov MG, Wren JD. **High-throughput processing and normalization of one-color microarrays for transcriptional meta-analyses.** _BMC Bioinformatics_. 2011 Oct 18. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22166002), [DOI](https://doi.org/10.1186/1471-2105-12-S10-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-12-S10-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Giles CB, Wren JD. **Predicting gene ontology from a global meta-analysis of 1-color microarray experiments**. _BMC Bioinformatics_. 2011 Oct 18. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22166114), [DOI](https://doi.org/10.1186/1471-2105-12-S10-S14) <span data-badge-type="4" data-doi="10.1186/1471-2105-12-S10-S14" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov M, Stone R 2nd, Clifford JL, Sabichi AL, Engles CD, Hauser PJ, Culkin DJ, Hurst RE. **System level changes in gene expression in maturing bladder mucosa.** _J Urol_. 2011. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21421225), [DOI](https://doi.org/10.1016/j.juro.2010.12.101) <span data-badge-type="4" data-doi="10.1016/j.juro.2010.12.101" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Azzarello JT, Wren JD, Fung KM, Yang Q, Davis JS, Hurst RE, Culkin DJ, Penning TM, Lin HK. **Elevated AKR1C3 expression promotes prostate cancer cell survival and prostate cell-mediated endothelial cell tube formation:  implications for prostate cancer progression.** _BMC Cancer_. 2010 Dec 6. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21134280), [DOI](https://doi.org/10.1186/1471-2407-10-672) <span data-badge-type="4" data-doi="10.1186/1471-2407-10-672" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Guthridge JM, Hurst RE, Dozmorov IM. **A comprehensive and universal method for assessing the performance of differential gene expression analyses.** _PLoS One_. 2010 Sep 9. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20844739), [DOI](https://doi.org/10.1371/journal.pone.0012657) <span data-badge-type="4" data-doi="10.1371/journal.pone.0012657" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov M, Wu W, Chakrabarty K, Booth JL, Hurst RE, Coggeshall KM, Metcalf JP. **Gene expression profiling of human alveolar macrophages infected by B. anthracis spores demonstrates TNF-alpha and NF-kappab are key components of the innate immune response to the pathogen.** _BMC Infect Dis_. 2009 Sep 10. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19744333), [DOI](https://doi.org/10.1186/1471-2334-9-152) <span data-badge-type="4" data-doi="10.1186/1471-2334-9-152" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Hurst RE, Culkin DJ, Kropp BP, Frank MB, Osban J, Penning TM, Lin HK. **Unique patterns of molecular profiling between human prostate cancer LNCaP and PC-3 cells.** _Prostate_. 2009 Jul 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19343732), [DOI](https://doi.org/10.1002/pros.20960) <span data-badge-type="4" data-doi="10.1002/pros.20960" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Kyker KD, Hauser PJ, Saban R, Buethe DD, Dozmorov I, Centola MB, Culkin DJ, Hurst RE. **From microarray to biology: an integrated experimental, statistical and in silico analysis of how the extracellular matrix modulates the phenotype of cancer cells.** _BMC Bioinformatics_. 2008 Aug 12. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/18793468), [DOI](https://doi.org/10.1186/1471-2105-9-S9-S4) <span data-badge-type="4" data-doi="10.1186/1471-2105-9-S9-S4" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Yang Q, Matwalli A, Hurst RE, Culkin DJ, Kropp BP, Lin HK. **5alpha-androstane-3alpha,17beta-diol selectively activates the canonical PI3K/AKT pathway: a bioinformatics-based evidence for androgen-activated cytoplasmic signaling.** _Genomic Med_. 2007. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/18923939), [DOI](https://doi.org/10.1007/s11568-008-9018-9) <span data-badge-type="4" data-doi="10.1007/s11568-008-9018-9" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Kyker KD, Saban R, Shankar N, Baghdayan AS, Centola MB, Hurst RE. **Systems biology approach for mapping the response of human urothelial cells to infection by Enterococcus faecalis.** _BMC Bioinformatics_. 2007 Nov 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/18047719), [DOI](https://doi.org/10.1186/1471-2105-8-S7-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-8-S7-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Kropp BP, Hurst RE, Cheng EY, Lin HK. **Differentially expressed gene networks in cultured smooth muscle cells from normal and neuropathic bladder.** _J Smooth Muscle Res_. 2007 Apr. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/17598958), [DOI](https://doi.org/10.1540/jsmr.43.55) <span data-badge-type="4" data-doi="10.1540/jsmr.43.55" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Li R, Abbas AK, Hellberg F, Farre C, Huang FS, Jilderos B, Wigström H. **Contribution of AMPA and NMDA receptors to early and late phases of LTP in hippocampal slices.** Neurosci Res. 2006 Jun. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/16678928), [DOI](https://doi.org/10.1016/j.neures.2006.03.001) <span data-badge-type="4" data-doi="10.1016/j.neures.2006.03.001" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov MG, Kyker KD, Saban R, Knowlton N, Dozmorov I, Centola MB, Hurst RE. **Analysis of the interaction of extracellular matrix and phenotype of bladder cancer cells.** _BMC Cancer_. 2006 Jan 13. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/16412233), [DOI](https://doi.org/10.1186/1471-2407-6-12) <span data-badge-type="4" data-doi="10.1186/1471-2407-6-12" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov M, Li R, Xu HP, Jilderos B, Wigström H. **Slowly developing depression of N-methyl-D-aspartate receptor mediated responses in young rat hippocampi.** _BMC Neurosci_. 2004 Aug 3. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/15285786), [DOI](https://doi.org/10.1186/1471-2202-5-26) <span data-badge-type="4" data-doi="10.1186/1471-2202-5-26" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Dozmorov M, Niu YP, Xu HP, Xiao MY, Li R, Sandberg M, Wigström H. **Active decay of composite excitatory postsynaptic potentials in hippocampal slices from young rats.** _Brain Res_. 2003 May 23. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/12729952), [DOI](https://doi.org/10.1016/s0006-8993(03)02536-8) <span data-badge-type="4" data-doi="10.1016/s0006-8993(03)02536-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 
 ## Collaborative publications
 
@@ -102,8 +143,6 @@ permalink: "publications.html"
 
 - Reimers MA, Craver C, Dozmorov M, Bacanu SA, Kendler KS. **The Coherence Problem: Finding Meaning in GWAS Complexity.** _Behav Genet_. 2018 Nov 16. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30446889), [DOI](https://doi.org/10.1007/s10519-018-9935-x) <span data-badge-type="4" data-doi="10.1007/s10519-018-9935-x" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
-
-
 - Towner RA, Smith N, Saunders D, Brown CA, Cai X, Ziegler J, Mallory S, Dozmorov MG, Coutinho De Souza P, Wiley G, Kim K, Kang S, Kong DS, Kim YT, Fung KM, Wren JD, Battiste J. **OKN-007 Increases temozolomide (TMZ) Sensitivity and Suppresses TMZ-Resistant Glioblastoma (GBM) Tumor Growth.** _Transl Oncol_. 2018 Nov 20. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30468988), [DOI](https://doi.org/10.1016/j.tranon.2018.10.002) <span data-badge-type="4" data-doi="10.1016/j.tranon.2018.10.002" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Iness AN, Felthousen J, Ananthapadmanabhan V, Sesay F, Saini S, Guiley KZ, Rubin SM, Dozmorov M, Litovchick L. **The cell cycle regulatory DREAM complex is disrupted by high expression of oncogenic B-Myb.** _Oncogene_. 2018 Sep 11. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/30206359), [DOI](https://doi.org/10.1038/s41388-018-0490-y) <span data-badge-type="4" data-doi="10.1038/s41388-018-0490-y" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
@@ -124,8 +163,6 @@ permalink: "publications.html"
 
 - Lochmann TL, Powell KM, Ham J, Floros KV, Heisey DAR, Kurupi RIJ, Calbert ML, Ghotra MS, Greninger P, Dozmorov M, Gowda M, Souers AJ, Reynolds CP, Benes CH, Faber AC. **Targeted inhibition of histone H3K27 demethylation is effective in high-risk neuroblastoma.** _Sci Transl Med_. 2018 May 16. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29769286), [DOI](https://doi.org/10.1126/scitranslmed.aao4680) <span data-badge-type="4" data-doi="10.1126/scitranslmed.aao4680" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-- Dozmorov MG, Bilbo SD, Kollins SH, Zucker N, Do EK, Schechter JC, Zhang JJ, Murphy SK, Hoyo C, Fuemmeler BF. **Associations between maternal cytokine levels during gestation and measures of child cognitive abilities and executive functioning.** _Brain Behav Immun_. 2018 Mar 26. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29588230), [DOI](https://doi.org/10.1016/j.bbi.2018.03.029) <span data-badge-type="4" data-doi="10.1016/j.bbi.2018.03.029" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 - Floros KV, Lochmann TL, Hu B, Monterrubio C, Hughes MT, Wells JD, Bernadó Morales C, Ghotra MS, Costa C, Souers AJ, Boikos SA, Leverson JD, Tan M, Serra V, Koblinski JE, Arribas J, Prat A, Paré L, Miller TW, Dozmorov MG, Harada H, Windle BE, Scaltriti M, Faber AC. **Coamplification of miR-4728 protects HER2-amplified breast cancers from targeted therapy.** _Proc Natl Acad Sci U S A_. 2018 Feb 23. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29476008), [DOI](https://doi.org/10.1073/pnas.1717820115) <span data-badge-type="4" data-doi="10.1073/pnas.1717820115" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Song KA, Niederst MJ, Lochmann TL, Hata AN, Kitai H, Ham J, Floros KV, Hicks MA, Hu H, Mulvey HE, Drier Y, Heisey DAR, Hughes MT, Patel NU, Lockerman EL, Garcia A, Gillepsie S, Archibald HL, Gomez-Caraballo M, Nulton TJ, Windle BE, Piotrowska Z, Sahingur SE, Taylor SM, Dozmorov M, Sequist LV, Bernstein B, Ebi H, Engelman JA, Faber AC. **Epithelial-to-Mesenchymal Transition Antagonizes Response to Targeted Therapies in Lung Cancer by Suppressing BIM.** _Clin Cancer Res_. 2018 Jan 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29051323), [DOI](https://doi.org/10.1158/1078-0432.CCR-17-1577) <span data-badge-type="4" data-doi="10.1158/1078-0432.CCR-17-1577" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -142,8 +179,6 @@ permalink: "publications.html"
 
 - Hylemon PB, Takabe K, Dozmorov M, Nagahashi M, Zhou H. **Bile acids as global regulators of hepatic nutrient metabolism.** _Liver Res_. 2017 Jun 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29123941), [DOI](https://doi.org/10.1016/j.livres.2017.03.002) <span data-badge-type="4" data-doi="10.1016/j.livres.2017.03.002" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-- Dozmorov MG, Coit P, Maksimowicz-McKinnon K, Sawalha AH. **Age-associated DNA methylation changes in naive CD4+ T cells suggest an evolving autoimmune epigenotype in aging T cells.** _Epigenomics_. 2017. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28322571), [DOI](https://doi.org/10.2217/epi-2016-0143) <span data-badge-type="4" data-doi="10.2217/epi-2016-0143" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 - Dumancas, GG, Adrianto I, Bello G, Dozmorov M. **Current Developments in Machine Learning Techniques in Biological Data Mining.** _Bioinformatics and Biology Insights_. 2017. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28469415), [DOI](https://doi.org/10.1177/1177932216687545) <span data-badge-type="4" data-doi="10.1177/1177932216687545" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Nulton TJ, Olex AL, Dozmorov M, Morgan IM, Windle B. **Analysis of the cancer genome atlas sequencing data reveals novel properties of the human papillomavirus 16 genome in head and neck squamous cell carcinoma.** _Oncotarget_. 2017. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28187443), [DOI](https://doi.org/10.18632/oncotarget.15179) <span data-badge-type="4" data-doi="10.18632/oncotarget.15179" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -159,8 +194,6 @@ permalink: "publications.html"
 - Ward JM, Ratliff ML, Templeton TD, Dozmorov MG, Wiley G, Guthridge JM, Gaffney PM, James JA, Webb CF **Human effector B lymphocytes express ARID3a and secrete interferon alpha** _J Autoimmun_. 2016 Aug 10. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27522115), [DOI](https://doi.org/10.1016/j.jaut.2016.08.003) <span data-badge-type="4" data-doi="10.1016/j.jaut.2016.08.003" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Wren JD, Toby I, Hong H, Nanduri B, Kaundal R, Dozmorov MG, Thakkar S. **Proceedings of the 2016 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.** _BMC Bioinformatics_. 2016. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27766933), [DOI](https://doi.org/10.1186/s12859-016-1213-4) <span data-badge-type="4" data-doi="10.1186/s12859-016-1213-4" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Coit P, Dozmorov MG, Merrill JT, McCune J, Maksimowicz-McKinnon K, Wren JD, Sawalha AH. **Epigenetic reprogramming in naïve CD4+ T cells favors T cell activation and non-Th1 effector T cell immune response as an early event in lupus flares.** _Arthritis & Rheumatology_ 2016 Apr 25. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27111767), [DOI](https://doi.org/10.1002/art.39720) <span data-badge-type="4" data-doi="10.1002/art.39720" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Kushwaha G, Dozmorov MG, Wren JD, Qui J, Shi H, Xu D **Hypomethylation Coordinates Antagonistically with Hypermethylation in Cancer Development: A Case Study of Leukemia.** _Hum Genomics_. 2016 Jul 25. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27461342), [DOI](https://doi.org/10.1186/s40246-016-0071-5) <span data-badge-type="4" data-doi="10.1186/s40246-016-0071-5" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
@@ -188,8 +221,6 @@ permalink: "publications.html"
 
 - Wren JD, Dozmorov MG, Burian D, Perkins A, Zhang C, Hoyt P, Kaundal R. **Proceedings of the 2014 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.** _BMC Bioinformatics_. 2014. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25350879), [DOI](https://doi.org/10.1186/1471-2105-15-S11-I1) <span data-badge-type="4" data-doi="10.1186/1471-2105-15-S11-I1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-- Dozmorov MG, Yang Q, Wu W, Wren J, Suhail MM, Woolley CL, Young DG, Fung KM, Lin HK. **Differential effects of selective frankincense (Ru Xiang) essential oil versus non-selective sandalwood (Tan Xiang) essential oil on cultured bladder cancer cells: a microarray and bioinformatics study.** _Chin Med_. 2014 Jul 2. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25006348), [DOI](https://doi.org/10.1186/1749-8546-9-18) <span data-badge-type="4" data-doi="10.1186/1749-8546-9-18" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 - Lessard CJ, Li H, Adrianto I, Ice JA, Rasmussen A, Grundahl KM, Kelly JA, Dozmorov MG, Miceli-Richard C, Bowman S, Lester S, Eriksson P, Eloranta ML, Brun JG, Gøransson LG, Harboe E, Guthridge JM, Kaufman KM, Kvarnström M, Jazebi H, Graham DS, Grandits ME, Nazmul-Hossain AN, Patel K, Adler AJ, Maier-Moore JS, Farris AD, Brennan MT, Lessard JA, Chodosh J, Gopalakrishnan R, Hefner KS, Houston GD, Huang AJ, Hughes PJ, Lewis DM, Radfar L, Rohrer MD, Stone DU, Wren JD, Vyse TJ, Gaffney PM, James JA, Omdal R, Wahren-Herlenius M, Illei GG, Witte T, Jonsson R, Rischmueller M, Rönnblom L, Nordmark G, Ng WF; for UK Primary Sjögren's Syndrome Registry, Mariette X, Anaya JM, Rhodus NL, Segal BM, Scofield RH, Montgomery CG, Harley JB, Sivils KL. **Variants at multiple loci implicated in both innate and adaptive immune responses are associated with Sjögren's syndrome.** _Nat Genet_. 2013 Oct 6. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24097067), [DOI](https://doi.org/10.1038/ng.2792) <span data-badge-type="4" data-doi="10.1038/ng.2792" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Wren JD, Dozmorov MG, Burian D, Kaundal R, Perkins A, Perkins E, Kupfer DM, Springer GK. **Proceedings of the 2013 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.** _BMC Bioinformatics_. 2013 Oct 9. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24267415), [DOI](https://doi.org/10.1186/1471-2105-14-S14-S1) <span data-badge-type="4" data-doi="10.1186/1471-2105-14-S14-S1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -206,63 +237,33 @@ permalink: "publications.html"
 
 - Wren JD, Dozmorov MG, Burian D, Kaundal R, Bridges S, Kupfer DM. **Proceedings of the 2012 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference.** _BMC Bioinformatics_. 2012, Sept 11. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/23046182), [DOI](https://doi.org/10.1186/1471-2105-13-S15-S1) <span data-badge-type="4" data-doi="10.1186/1471-2105-13-S15-S1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-- Delgado-Vega AM, Dozmorov MG, Quirós MB, Wu YY, Martínez-García B, Kozyrev SV,Frostegård J, Truedsson L, de Ramón E, González-Escribano MF, Ortego-Centeno N,Pons-Estel BA, D'Alfonso S, Sebastiani GD, Witte T, Lauwerys BR, Endreffy E,Kovács L, Vasconcelos C, da Silva BM, Wren JD, Martin J, Castillejo-López C, Alarcón-Riquelme ME. **Fine mapping and conditional analysis identify a new mutation in the autoimmunity susceptibility gene BLK that leads to reduced half-life of the BLK protein.** _Ann Rheum Dis_. 2012 jul 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22696686), [DOI](https://doi.org/10.1136/annrheumdis-2011-200987) <span data-badge-type="4" data-doi="10.1136/annrheumdis-2011-200987" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 - Sahoo K, Dozmorov MG, Anant S, Awasthi V. **The curcuminoid CLEFMA selectively induces cell death in H441 lung adenocarcinoma cells via oxidative stress.** _Invest New Drugs_. 2012 Apr 12. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21181232), [DOI](https://doi.org/10.1007/s10637-010-9610-4) <span data-badge-type="4" data-doi="10.1007/s10637-010-9610-4" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Wren JD, Kupfer DM, Perkins EJ, Bridges S, Winters-Hilt S, Dozmorov MG, Braga-Neto U. **Proceedings of the 2011 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference.** _BMC Bioinformatics_. 2011 Oct 18. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22165918), [DOI](https://doi.org/10.1186/1471-2105-12-S10-S1) <span data-badge-type="4" data-doi="10.1186/1471-2105-12-S10-S1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-- Dozmorov MG, Wren JD. **High-throughput processing and normalization of one-color microarrays for transcriptional meta-analyses.** _BMC Bioinformatics_. 2011 Oct 18. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22166002), [DOI](https://doi.org/10.1186/1471-2105-12-S10-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-12-S10-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov MG, Giles CB, Wren JD. **Predicting gene ontology from a global meta-analysis of 1-color microarray experiments**. _BMC Bioinformatics_. 2011 Oct 18. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22166114), [DOI](https://doi.org/10.1186/1471-2105-12-S10-S14) <span data-badge-type="4" data-doi="10.1186/1471-2105-12-S10-S14" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 - Jeffries MA, Dozmorov M, Tang Y, Merrill JT, Wren JD, Sawalha AH. **Genome-wide DNA methylation patterns in CD4+ T cells from patients with systemic lupus erythematosus.** _Epigenetics_. 2011 May 6. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21436623), [DOI](https://doi.org/10.4161/epi.6.5.15374) <span data-badge-type="4" data-doi="10.4161/epi.6.5.15374" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov M, Stone R 2nd, Clifford JL, Sabichi AL, Engles CD, Hauser PJ, Culkin DJ, Hurst RE. **System level changes in gene expression in maturing bladder mucosa.** _J Urol_. 2011. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21421225), [DOI](https://doi.org/10.1016/j.juro.2010.12.101) <span data-badge-type="4" data-doi="10.1016/j.juro.2010.12.101" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov MG, Azzarello JT, Wren JD, Fung KM, Yang Q, Davis JS, Hurst RE, Culkin DJ, Penning TM, Lin HK. **Elevated AKR1C3 expression promotes prostate cancer cell survival and prostate cell-mediated endothelial cell tube formation:  implications for prostate cancer progression.** _BMC Cancer_. 2010 Dec 6. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/21134280), [DOI](https://doi.org/10.1186/1471-2407-10-672) <span data-badge-type="4" data-doi="10.1186/1471-2407-10-672" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov MG, Guthridge JM, Hurst RE, Dozmorov IM. **A comprehensive and universal method for assessing the performance of differential gene expression analyses.** _PLoS One_. 2010 Sep 9. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/20844739), [DOI](https://doi.org/10.1371/journal.pone.0012657) <span data-badge-type="4" data-doi="10.1371/journal.pone.0012657" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov M, Wu W, Chakrabarty K, Booth JL, Hurst RE, Coggeshall KM, Metcalf JP. **Gene expression profiling of human alveolar macrophages infected by B. anthracis spores demonstrates TNF-alpha and NF-kappab are key components of the innate immune response to the pathogen.** _BMC Infect Dis_. 2009 Sep 10. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19744333), [DOI](https://doi.org/10.1186/1471-2334-9-152) <span data-badge-type="4" data-doi="10.1186/1471-2334-9-152" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov MG, Hurst RE, Culkin DJ, Kropp BP, Frank MB, Osban J, Penning TM, Lin HK. **Unique patterns of molecular profiling between human prostate cancer LNCaP and PC-3 cells.** _Prostate_. 2009 Jul 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19343732), [DOI](https://doi.org/10.1002/pros.20960) <span data-badge-type="4" data-doi="10.1002/pros.20960" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Abbas AK, Dozmorov M, Li R, Huang FS, Hellberg F, Danielson J, Tian Y, Ekström J, Sandberg M, Wigström H. **Persistent LTP without triggered protein synthesis.** _Neurosci Res_. 2009 Jan 11. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19013486), [DOI](https://doi.org/10.1016/j.neures.2008.10.008) <span data-badge-type="4" data-doi="10.1016/j.neures.2008.10.008" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-- Dozmorov MG, Kyker KD, Hauser PJ, Saban R, Buethe DD, Dozmorov I, Centola MB, Culkin DJ, Hurst RE. **From microarray to biology: an integrated experimental, statistical and in silico analysis of how the extracellular matrix modulates the phenotype of cancer cells.** _BMC Bioinformatics_. 2008 Aug 12. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/18793468), [DOI](https://doi.org/10.1186/1471-2105-9-S9-S4) <span data-badge-type="4" data-doi="10.1186/1471-2105-9-S9-S4" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov MG, Yang Q, Matwalli A, Hurst RE, Culkin DJ, Kropp BP, Lin HK. **5alpha-androstane-3alpha,17beta-diol selectively activates the canonical PI3K/AKT pathway: a bioinformatics-based evidence for androgen-activated cytoplasmic signaling.** _Genomic Med_. 2007. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/18923939), [DOI](https://doi.org/10.1007/s11568-008-9018-9) <span data-badge-type="4" data-doi="10.1007/s11568-008-9018-9" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 - Hauser PJ, Dozmorov MG, Bane BL, Slobodov G, Culkin DJ, Hurst RE. **Abnormal expression of differentiation related proteins and proteoglycan core proteins in the urothelium of patients with interstitial cystitis.** _J Urol_. 2008 Feb. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/18082196), [DOI](https://doi.org/10.1016/j.juro.2007.09.022) <span data-badge-type="4" data-doi="10.1016/j.juro.2007.09.022" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov MG, Kyker KD, Saban R, Shankar N, Baghdayan AS, Centola MB, Hurst RE. **Systems biology approach for mapping the response of human urothelial cells to infection by Enterococcus faecalis.** _BMC Bioinformatics_. 2007 Nov 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/18047719), [DOI](https://doi.org/10.1186/1471-2105-8-S7-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-8-S7-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov MG, Kropp BP, Hurst RE, Cheng EY, Lin HK. **Differentially expressed gene networks in cultured smooth muscle cells from normal and neuropathic bladder.** _J Smooth Muscle Res_. 2007 Apr. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/17598958), [DOI](https://doi.org/10.1540/jsmr.43.55) <span data-badge-type="4" data-doi="10.1540/jsmr.43.55" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Hurst RE, Kyker KD, Dozmorov MG, Takemori N, Singh A, Matsumoto H, Saban R, Betgovargez E, Simonian MH. **Proteome-level display by 2-dimensional chromatography of extracellular matrix-dependent modulation of the phenotype of bladder cancer cells.** _Proteome Sci_. 2006 Jun 2. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/16749926), [DOI](https://doi.org/10.1186/1477-5956-4-13) <span data-badge-type="4" data-doi="10.1186/1477-5956-4-13" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-- Dozmorov MG, Li R, Abbas AK, Hellberg F, Farre C, Huang FS, Jilderos B, Wigström H. **Contribution of AMPA and NMDA receptors to early and late phases of LTP in hippocampal slices.** Neurosci Res. 2006 Jun. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/16678928), [DOI](https://doi.org/10.1016/j.neures.2006.03.001) <span data-badge-type="4" data-doi="10.1016/j.neures.2006.03.001" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov MG, Kyker KD, Saban R, Knowlton N, Dozmorov I, Centola MB, Hurst RE. **Analysis of the interaction of extracellular matrix and phenotype of bladder cancer cells.** _BMC Cancer_. 2006 Jan 13. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/16412233), [DOI](https://doi.org/10.1186/1471-2407-6-12) <span data-badge-type="4" data-doi="10.1186/1471-2407-6-12" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov M, Li R, Xu HP, Jilderos B, Wigström H. **Slowly developing depression of N-methyl-D-aspartate receptor mediated responses in young rat hippocampi.** _BMC Neurosci_. 2004 Aug 3. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/15285786), [DOI](https://doi.org/10.1186/1471-2202-5-26) <span data-badge-type="4" data-doi="10.1186/1471-2202-5-26" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 - Li R, Dozmorov MG, Hellberg F, Tian Y, Jilderos B, Wigström H. **Characterization of NMDA induced depression in rat hippocampus: involvement of AMPA and NMDA receptors.** _Neurosci Lett_. 2004 Mar 4. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/15036581), [DOI](https://doi.org/10.1016/j.neulet.2003.11.004) <span data-badge-type="4" data-doi="10.1016/j.neulet.2003.11.004" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Dozmorov M, Niu YP, Xu HP, Xiao MY, Li R, Sandberg M, Wigström H. **Active decay of composite excitatory postsynaptic potentials in hippocampal slices from young rats.** _Brain Res_. 2003 May 23. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/12729952), [DOI](https://doi.org/10.1016/s0006-8993(03)02536-8) <span data-badge-type="4" data-doi="10.1016/s0006-8993(03)02536-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Xiao MY, Niu YP, Dozmorov MG, Wigström H. **Comparing fluctuations of synaptic responses mediated via AMPA and NMDA receptor channels--implications for synaptic plasticity.** _Biosystems_. 2001 Sep. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/11595318), [DOI](https://doi.org/10.1016/s0303-2647(01)00136-8) <span data-badge-type="4" data-doi="10.1016/s0303-2647(01)00136-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-<sup>&lowast;</sup> indicates corresponding author
+<sup>&lowast;</sup> indicates corresponding author, unless specified otherwise
 
 <!--
 <sup>&dagger;</sup> indicates equal contribution   
 -->
 
+## Book chapters
+
+- Dozmorov MG, Hurst RE. **Systems Biology for Signaling Networks, Chapter 4, From Microarray to Biology**, Springer Science+Business Media, LLC 2010 [DOI](https://doi.org/10.1007/978-1-4419-5797-9_4) <span data-badge-type="4" data-doi="10.1007/978-1-4419-5797-9_4" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+
 ## Preprints
 
--	Gowon O. McMichael, John Drake, Eric Sean Vornholt, Kellen Cresswell, Vernell Williamson, Chris Chatzinakos, Mohammed Mamdani, Siddharth Hariharan, Kenneth S. Kendler, Michael F. Miles, Gursharan Kalsi, Brien P. Riley, Mikhail Dozmorov, Silviu-Alin Bacanu, Vladimir I. Vladimirov. **Assessing the role of long-noncoding RNA in nucleus accumbens in subjects with alcohol dependence.** _bioRxiv_, [DOI](https://doi.org/10.1101/583203) <span data-badge-type="4" data-doi="10.1101/583203" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
-
-- Jami M. Gurley, Grzegorz Gmyrek, Mark E. McClellan, Stefanie M. Hauck, Mikhail G. Dozmorov, Jonathan D. Wren, Daniel J. J. Carr, Michael H. Elliott. Neuroretinal-derived caveolin-1 promotes endotoxin-induced inflammation in the murine retina.** _bioRxiv_, [DOI](https://doi.org/10.1101/2020.01.08.899377) <span data-badge-type="4" data-doi="10.1101/2020.01.08.899377" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
-
+[bioRxiv search results](https://www.biorxiv.org/search/Mikhail%252BDozmorov)
