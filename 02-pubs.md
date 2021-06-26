@@ -14,7 +14,7 @@ permalink: "publications.html"
 [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/mikhail.dozmorov.1/bibliography/public/) | 
 [ORCID](https://orcid.org/0000-0002-0086-8358) 
 
-## Lead/senior author publications
+## First/senior author publications
 
 - Dong X<sup>&lowast;</sup>, Liu C, Dozmorov M<sup>&lowast;</sup>. **Review of multi-omics data resources and integrative analysis for human brain disorders**. _Brief Funct Genomics_. 2021 May 8, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33969380/), [DOI](https://doi.org/10.1093/bfgp/elab024) <span data-badge-type="4" data-doi="10.1093/bfgp/elab024" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
