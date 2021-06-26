@@ -18,7 +18,7 @@ permalink: "publications.html"
 
 - Dong X<sup>&lowast;</sup>, Liu C, Dozmorov M<sup>&lowast;</sup>. **Review of multi-omics data resources and integrative analysis for human brain disorders**. _Brief Funct Genomics_. 2021 May 8, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33969380/), [DOI](https://doi.org/10.1093/bfgp/elab024) <span data-badge-type="4" data-doi="10.1093/bfgp/elab024" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
-- Dozmorov MG, Tyc KM, Sheffield NC, Boyd DC, Olex AL, Reed J, Harrell JC. **Chromatin conformation capture (Hi-C) sequencing of patient-derived xenografts: analysis guidelines**. _Gigascience_. 2021 Apr 21, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33880552/), [DOI](https://doi.org/10.1093/gigascience/giab022) <span data-badge-type="4" data-doi="10.1093/gigascience/giab022" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+- Dozmorov MG<sup>&lowast;</sup>, Tyc KM, Sheffield NC, Boyd DC, Olex AL, Reed J, Harrell JC<sup>&lowast;</sup>. **Chromatin conformation capture (Hi-C) sequencing of patient-derived xenografts: analysis guidelines**. _Gigascience_. 2021 Apr 21, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33880552/), [DOI](https://doi.org/10.1093/gigascience/giab022) <span data-badge-type="4" data-doi="10.1093/gigascience/giab022" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Dozmorov MG<sup>&lowast;</sup>, Cresswell KG, Bacanu SA, Craver C, Reimers M, Kendler KS. **A method for estimating coherence of molecular mechanisms in major human disease and traits.** _BMC Bioinformatics._ 2020 Oct 21. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33087046), [DOI](https://doi.org/10.1186/s12859-020-03821-x) <span data-badge-type="4" data-doi="10.1186/s12859-020-03821-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
@@ -62,9 +62,9 @@ permalink: "publications.html"
 
 - Dozmorov MG<sup>&lowast;</sup>, Wren JD, Alarcón-Riquelme ME. **Epigenomic elements enriched in the promoters of autoimmunity susceptibility genes.** _Epigenetics_. 2013 Nov 8. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24213554), [DOI](https://doi.org/10.4161/epi.27021) <span data-badge-type="4" data-doi="10.4161/epi.27021" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
-- Dozmorov MG<sup>&lowast;</sup>, Giles CB, Koelsch KA, Wren JD. **Systematic classification of non-coding RNAs by epigenomic similarity.** _BMC Bioinformatics_. 2013, Oct 9. Best paper of the MCBIOS X conference. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24267974), [DOI](https://doi.org/10.1186/1471-2105-14-S14-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-14-S14-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+- Dozmorov MG<sup>&lowast;</sup>, Giles CB, Koelsch KA, Wren JD<sup>&lowast;</sup>. **Systematic classification of non-coding RNAs by epigenomic similarity.** _BMC Bioinformatics_. 2013, Oct 9. Best paper of the MCBIOS X conference. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24267974), [DOI](https://doi.org/10.1186/1471-2105-14-S14-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-14-S14-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
-- Dozmorov MG<sup>&lowast;</sup>, Cara LR, Giles CB, Wren JD. **GenomeRunner: automating genome exploration.** _Bioinformatics_. 2012 Feb 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22155868), [DOI](https://doi.org/10.1093/bioinformatics/btr666) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btr666" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+- Dozmorov MG<sup>&lowast;</sup>, Cara LR, Giles CB, Wren JD<sup>&lowast;</sup>. **GenomeRunner: automating genome exploration.** _Bioinformatics_. 2012 Feb 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22155868), [DOI](https://doi.org/10.1093/bioinformatics/btr666) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btr666" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Delgado-Vega AM, Dozmorov MG<sup>&lowast;</sup>, Quirós MB, Wu YY, Martínez-García B, Kozyrev SV,Frostegård J, Truedsson L, de Ramón E, González-Escribano MF, Ortego-Centeno N,Pons-Estel BA, D'Alfonso S, Sebastiani GD, Witte T, Lauwerys BR, Endreffy E,Kovács L, Vasconcelos C, da Silva BM, Wren JD, Martin J, Castillejo-López C, Alarcón-Riquelme ME. **Fine mapping and conditional analysis identify a new mutation in the autoimmunity susceptibility gene BLK that leads to reduced half-life of the BLK protein.** _Ann Rheum Dis_. 2012 jul 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22696686), [DOI](https://doi.org/10.1136/annrheumdis-2011-200987) <span data-badge-type="4" data-doi="10.1136/annrheumdis-2011-200987" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - co-first author
 
@@ -98,6 +98,7 @@ permalink: "publications.html"
 
 - Dozmorov M, Niu YP, Xu HP, Xiao MY, Li R, Sandberg M, Wigström H. **Active decay of composite excitatory postsynaptic potentials in hippocampal slices from young rats.** _Brain Res_. 2003 May 23. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/12729952), [DOI](https://doi.org/10.1016/s0006-8993(03)02536-8) <span data-badge-type="4" data-doi="10.1016/s0006-8993(03)02536-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
+<sup>&lowast;</sup> indicates corresponding author, unless specified otherwise
 
 ## Collaborative publications
 
@@ -260,8 +261,6 @@ permalink: "publications.html"
 - Li R, Dozmorov MG, Hellberg F, Tian Y, Jilderos B, Wigström H. **Characterization of NMDA induced depression in rat hippocampus: involvement of AMPA and NMDA receptors.** _Neurosci Lett_. 2004 Mar 4. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/15036581), [DOI](https://doi.org/10.1016/j.neulet.2003.11.004) <span data-badge-type="4" data-doi="10.1016/j.neulet.2003.11.004" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Xiao MY, Niu YP, Dozmorov MG, Wigström H. **Comparing fluctuations of synaptic responses mediated via AMPA and NMDA receptor channels--implications for synaptic plasticity.** _Biosystems_. 2001 Sep. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/11595318), [DOI](https://doi.org/10.1016/s0303-2647(01)00136-8) <span data-badge-type="4" data-doi="10.1016/s0303-2647(01)00136-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-<sup>&lowast;</sup> indicates corresponding author, unless specified otherwise
 
 <!--
 <sup>&dagger;</sup> indicates equal contribution   
