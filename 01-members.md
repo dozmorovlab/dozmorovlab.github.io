@@ -19,7 +19,7 @@ GitHub: [mdozmorov](https://github.com/mdozmorov) | [Google Scholar](http://scho
 
 <img alt="Maggie Marshall" align="left" src="media/people/MaggieMarshall.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Maggie Marshall, M.S. Bioinformatics student  
-&nbsp;&nbsp;&nbsp;Research Assistant, 2020-present  
+&nbsp;&nbsp;&nbsp;Senior Research Assistant, 2020-present  
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [magmarshh](https://github.com/magmarshh)   
 <br>
