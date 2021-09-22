@@ -19,6 +19,7 @@ permalink: "publications.html"
 - Dong X<sup>&lowast;</sup>, Liu C, Dozmorov M<sup>&lowast;</sup>. **Review of multi-omics data resources and integrative analysis for human brain disorders**. _Brief Funct Genomics_. 2021 May 8, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33969380/), [DOI](https://doi.org/10.1093/bfgp/elab024) <span data-badge-type="4" data-doi="10.1093/bfgp/elab024" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Dozmorov MG<sup>&lowast;</sup>, Tyc KM, Sheffield NC, Boyd DC, Olex AL, Reed J, Harrell JC<sup>&lowast;</sup>. **Chromatin conformation capture (Hi-C) sequencing of patient-derived xenografts: analysis guidelines**. _Gigascience_. 2021 Apr 21, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33880552/), [DOI](https://doi.org/10.1093/gigascience/giab022) <span data-badge-type="4" data-doi="10.1093/gigascience/giab022" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+    - [Supporting data for "Chromatin conformation capture (Hi-C) sequencing of patient-derived xenografts: analysis guidelines"](http://dx.doi.org/10.5524/100870)
 
 - Dozmorov MG<sup>&lowast;</sup>, Cresswell KG, Bacanu SA, Craver C, Reimers M, Kendler KS. **A method for estimating coherence of molecular mechanisms in major human disease and traits.** _BMC Bioinformatics._ 2020 Oct 21. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33087046), [DOI](https://doi.org/10.1186/s12859-020-03821-x) <span data-badge-type="4" data-doi="10.1186/s12859-020-03821-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
