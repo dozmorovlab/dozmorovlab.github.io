@@ -10,8 +10,8 @@ permalink: "software.html"
 
 We implement our methods as the R packages deployed on [Bioconductor](http://www.bioconductor.org).
 
-- [**denyranges**](https://github.com/Bioconductor/Contributions/issues/2152) - Genomic ranges of deny (aka problematic, exclusion, blacklisted) regions that should be avoided when working with genomic data. For human, mouse, and selected other organisms.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/denyranges) ]
+- [**excluderanges**](https://github.com/Bioconductor/Contributions/issues/2269) - Genomic ranges of deny (aka problematic, exclusion, blacklisted) regions that should be avoided when working with genomic data. For human, mouse, and selected other organisms.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/excluderanges) ]
 
 - [**CTCF**](https://github.com/Bioconductor/Contributions/issues/2109) - Genomic coordinates of FIMO-predicted CTCF binding sites with motif MA0139.1 (Jaspar).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/CTCF) ]
