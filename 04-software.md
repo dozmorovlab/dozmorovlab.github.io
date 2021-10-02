@@ -41,3 +41,7 @@ We implement our methods as the R packages deployed on [Bioconductor](http://www
 
 - [lrcde](https://github.com/mdozmorov/lrcde.dev) - An R package for cell type-specific deconvolution and differential gene expression analysis
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/lrcde.dev), [Paper](https://doi.org/10.1186/s12859-016-1226-z) ]
+
+# GitHub stats
+
+![](https://github.com/mdozmorov/test/blob/master/github-metrics.svg)
