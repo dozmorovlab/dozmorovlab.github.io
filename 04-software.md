@@ -44,4 +44,4 @@ We implement our methods as the R packages deployed on [Bioconductor](http://www
 
 # GitHub stats
 
-![](https://github.com/mdozmorov/test/blob/master/github-metrics.svg)
+<img src="https://github.com/mdozmorov/GitHub_metrics/blob/master/github-metrics.svg" height=200 >
