@@ -17,7 +17,7 @@ We implement our methods as the R packages deployed on [Bioconductor](http://www
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/CTCF) ]
 
 - [**preciseTAD**](https://dozmorovlab.github.io/preciseTAD/) - Prediction of boundaries of topologically associating domains (TADs) and chromatin loops from epigenomic data at base-level precision. [preciseTADhub](https://bioconductor.org/packages/preciseTADhub/) - Pre-trained random forest models obtained using preciseTAD
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/preciseTAD/), [Preprint](https://doi.org/10.1101/2020.09.03.282186) ]
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/preciseTAD/), [Preprint](https://doi.org/10.1101/2020.09.03.282186), [preciseTAD predicted boundaries for 60 cell lines, BED files, hg38](https://drive.google.com/drive/folders/15Rc6PhrrBjThwE-5dSyNX-ILELaUu6uG?usp=sharing) ]
 
 - [**TADcompare**](https://bioconductor.org/packages/TADCompare/) - Differential and time course analysis of Topologically Associated Domains
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/TADCompare/), [GitHub](https://github.com/dozmorovlab/TADCompare), [Paper](https://doi.org/10.3389/fgene.2020.00158) ]
