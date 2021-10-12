@@ -14,16 +14,9 @@ permalink: "publications.html"
 [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/mikhail.dozmorov.1/bibliography/public/) | 
 [ORCID](https://orcid.org/0000-0002-0086-8358) 
 
-## First/senior author publications
+## First/equal contribution/senior author publications
 
-Lospinoso K<sup>&lowast;</sup>, Dozmorov M<sup>&lowast;</sup>, El Fawal N, Raghu R, Chae WJ, Lee ED. **Overexpression of ERAP2N in Human Trophoblast Cells Promotes Cell Death**. _Int J Mol Sci_. 2021 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34445292), [DOI](https://doi.org/10.3390/ijms22168585) <span data-badge-type="4" data-doi="10.3390/ijms22168585" data-hide-no-mentions="true" class="altmetric-embed"> </span>  <sup>&lowast;</sup> - equal contribution
-
-
-Identification of nuclear export inhibitor-based combination therapies in preclinical models of triple-negative breast cancer.
-Rashid NS, Hairr NS, Murray G, Olex AL, Leftwich TJ, Grible JM, Reed J, Dozmorov MG, Harrell JC.
-Transl Oncol. 2021 Oct 7;14(12):101235. doi: 10.1016/j.tranon.2021.101235. Online ahead of print.
-PMID: 34628286
-
+- Lospinoso K<sup>&lowast;</sup>, Dozmorov M<sup>&lowast;</sup>, El Fawal N, Raghu R, Chae WJ, Lee ED. **Overexpression of ERAP2N in Human Trophoblast Cells Promotes Cell Death**. _Int J Mol Sci_. 2021 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34445292), [DOI](https://doi.org/10.3390/ijms22168585) <span data-badge-type="4" data-doi="10.3390/ijms22168585" data-hide-no-mentions="true" class="altmetric-embed"> </span>  <sup>&lowast;</sup> - equal contribution
 
 - Dong X<sup>&lowast;</sup>, Liu C, Dozmorov M<sup>&lowast;</sup>. **Review of multi-omics data resources and integrative analysis for human brain disorders**. _Brief Funct Genomics_. 2021 May 8, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33969380/), [DOI](https://doi.org/10.1093/bfgp/elab024) <span data-badge-type="4" data-doi="10.1093/bfgp/elab024" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
@@ -111,6 +104,8 @@ PMID: 34628286
 <sup>&lowast;</sup> indicates corresponding author, unless specified otherwise
 
 ## Collaborative publications
+
+- Rashid NS, Hairr NS, Murray G, Olex AL, Leftwich TJ, Grible JM, Reed J, Dozmorov MG, Harrell JC. Identification of nuclear export inhibitor-based combination therapies in preclinical models of triple-negative breast cancer. Transl Oncol. 2021 Oct 7, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34628286), [DOI](https://doi.org/10.1016/j.tranon.2021.101235) <span data-badge-type="4" data-doi="10.1016/j.tranon.2021.101235" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Heisey DAR, Jacob S, Lochmann TL, Kurupi R, Ghotra MS, Calbert ML, Shende M, Kato Maves Y, Koblinski JE, Dozmorov MG, Boikos SA, Benes CH, Faber AC. Pharmaceutical interference of the EWS-FLI1-driven transcriptome by co-targeting H3K27ac and RNA polymerase activity in Ewing Sarcoma. Mol Cancer Ther. 2021 Jul 26. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34315769/), [DOI](https://doi.org/10.1158/1535-7163.mct-20-0489) <span data-badge-type="4" data-doi="10.1158/1535-7163.MCT-20-0489" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
