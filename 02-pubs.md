@@ -16,6 +16,8 @@ permalink: "publications.html"
 
 ## First/equal contribution/senior author publications
 
+- Stilianoudakis S, Dozmorov MG<sup>&lowast;</sup>. **preciseTAD: A machine learning framework for precise 3D domain boundary prediction at base-level resolution** _bioRxiv_ (September 4, 2020). [DOI](https://doi.org/10.1101/2020.09.03.282186) <span data-badge-type="4" data-doi="10.1101/2020.09.03.282186" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 - Lospinoso K<sup>&lowast;</sup>, Dozmorov M<sup>&lowast;</sup>, El Fawal N, Raghu R, Chae WJ, Lee ED. **Overexpression of ERAP2N in Human Trophoblast Cells Promotes Cell Death**. _Int J Mol Sci_. 2021 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34445292), [DOI](https://doi.org/10.3390/ijms22168585) <span data-badge-type="4" data-doi="10.3390/ijms22168585" data-hide-no-mentions="true" class="altmetric-embed"> </span>  <sup>&lowast;</sup> - equal contribution
 
 - Dong X<sup>&lowast;</sup>, Liu C, Dozmorov M<sup>&lowast;</sup>. **Review of multi-omics data resources and integrative analysis for human brain disorders**. _Brief Funct Genomics_. 2021 May 8, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33969380/), [DOI](https://doi.org/10.1093/bfgp/elab024) <span data-badge-type="4" data-doi="10.1093/bfgp/elab024" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
@@ -24,8 +26,6 @@ permalink: "publications.html"
     - [Supporting data for "Chromatin conformation capture (Hi-C) sequencing of patient-derived xenografts: analysis guidelines"](http://dx.doi.org/10.5524/100870)
 
 - Dozmorov MG<sup>&lowast;</sup>, Cresswell KG, Bacanu SA, Craver C, Reimers M, Kendler KS. **A method for estimating coherence of molecular mechanisms in major human disease and traits.** _BMC Bioinformatics._ 2020 Oct 21. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/33087046), [DOI](https://doi.org/10.1186/s12859-020-03821-x) <span data-badge-type="4" data-doi="10.1186/s12859-020-03821-x" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Stilianoudakis S, Dozmorov MG<sup>&lowast;</sup>. **preciseTAD: A machine learning framework for precise 3D domain boundary prediction at base-level resolution** _bioRxiv_ (September 4, 2020). [DOI](https://doi.org/10.1101/2020.09.03.282186) <span data-badge-type="4" data-doi="10.1101/2020.09.03.282186" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Cresswell KG, Stansfield JS, Dozmorov MG<sup>&lowast;</sup>. **SpectralTAD: An R Package for Defining a Hierarchy of Topologically Associated Domains Using Spectral Clustering.** _BMC Bioinformatics_ 21, no. 1 (December 2020): 319. [DOI](https://doi.org/10.1186/s12859-020-03652-w) <span data-badge-type="4" data-doi="10.1186/s12859-020-03652-w" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
@@ -104,6 +104,8 @@ permalink: "publications.html"
 <sup>&lowast;</sup> indicates corresponding author, unless specified otherwise
 
 ## Collaborative publications
+
+- Rajesh Y, Reghupaty SC, Mendoza RG, Manna D, Banerjee I, Subler MA, Weldon K, Lai Z, Giashuddin S, Fisher PB, Sanyal AJ, Martin RK, Dozmorov MG, Windle JJ, Sarkar D. **Dissecting the Balance Between Metabolic and Oncogenic Functions of Astrocyte-Elevated Gene-1/Metadherin.** _Hepatol Commun._ 2021 Nov 5. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34741448), [DOI](https://doi.org/10.1002/hep4.1834) <span data-badge-type="4" data-doi="10.1002/hep4.1834" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Rashid NS, Hairr NS, Murray G, Olex AL, Leftwich TJ, Grible JM, Reed J, Dozmorov MG, Harrell JC. **Identification of nuclear export inhibitor-based combination therapies in preclinical models of triple-negative breast cancer.** _Transl Oncol._ 2021 Oct 7, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34628286), [DOI](https://doi.org/10.1016/j.tranon.2021.101235) <span data-badge-type="4" data-doi="10.1016/j.tranon.2021.101235" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
