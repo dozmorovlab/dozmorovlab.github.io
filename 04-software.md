@@ -10,13 +10,13 @@ permalink: "software.html"
 
 We implement our methods as the R packages deployed on [Bioconductor](http://www.bioconductor.org).
 
-- [**excluderanges**](https://github.com/Bioconductor/Contributions/issues/2269) - Genomic ranges of deny (aka problematic, exclusion, blacklisted) regions that should be avoided when working with genomic data. For human, mouse, and selected other organisms.
+- [**excluderanges**](https://bioconductor.org/packages/excluderanges) - Genomic ranges of deny (aka problematic, exclusion, blacklisted) regions that should be avoided when working with genomic data. For human, mouse, and selected other organisms.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/excluderanges) ]
 
-- [**CTCF**](https://github.com/Bioconductor/Contributions/issues/2109) - Genomic coordinates of FIMO-predicted CTCF binding sites with motif MA0139.1 (Jaspar).
+- [**CTCF**](https://bioconductor.org/packages/CTCF) - Genomic coordinates of FIMO-predicted CTCF binding sites with motif MA0139.1 (Jaspar).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/CTCF) ]
 
-- [**preciseTAD**](https://dozmorovlab.github.io/preciseTAD/) - Prediction of boundaries of topologically associating domains (TADs) and chromatin loops from epigenomic data at base-level precision. [preciseTADhub](https://bioconductor.org/packages/preciseTADhub/) - Pre-trained random forest models obtained using preciseTAD
+- [**preciseTAD**](https://bioconductor.org/packages/preciseTAD) - Prediction of boundaries of topologically associating domains (TADs) and chromatin loops from epigenomic data at base-level precision. [preciseTADhub](https://bioconductor.org/packages/preciseTADhub/) - Pre-trained random forest models obtained using preciseTAD
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/preciseTAD/), [Preprint](https://doi.org/10.1101/2020.09.03.282186), [preciseTAD predicted boundaries for 60 cell lines, BED files, hg38](https://drive.google.com/drive/folders/15Rc6PhrrBjThwE-5dSyNX-ILELaUu6uG?usp=sharing) ]
 
 - [**TADcompare**](https://bioconductor.org/packages/TADCompare/) - Differential and time course analysis of Topologically Associated Domains
@@ -41,6 +41,11 @@ We implement our methods as the R packages deployed on [Bioconductor](http://www
 
 - [lrcde](https://github.com/mdozmorov/lrcde.dev) - An R package for cell type-specific deconvolution and differential gene expression analysis
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/lrcde.dev), [Paper](https://doi.org/10.1186/s12859-016-1226-z) ]
+
+# Contributor
+
+- [**nullranges**](https://bioconductor.org/packages/nullranges) - Generation of null ranges via bootstrapping or covariate matching.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [website](https://nullranges.github.io/nullranges/) ]
 
 # GitHub stats
 
