@@ -10,14 +10,14 @@ permalink: "software.html"
 
 We implement our methods as the R packages deployed on [Bioconductor](http://www.bioconductor.org).
 
+- [**preciseTAD**](https://bioconductor.org/packages/preciseTAD) - Prediction of boundaries of topologically associating domains (TADs) and chromatin loops from epigenomic data at base-level precision. [preciseTADhub](https://bioconductor.org/packages/preciseTADhub/) - Pre-trained random forest models obtained using preciseTAD. [preciseTAD predicted boundaries for 60 cell lines](https://drive.google.com/drive/folders/15Rc6PhrrBjThwE-5dSyNX-ILELaUu6uG?usp=sharing) - BED files, hg38
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/preciseTAD/), [GitHub](https://github.com/dozmorovlab/preciseTAD), [Paper](https://doi.org/10.1093/bioinformatics/btab743) ]
+
 - [**excluderanges**](https://bioconductor.org/packages/excluderanges) - Genomic ranges of deny (aka problematic, exclusion, blacklisted) regions that should be avoided when working with genomic data. For human, mouse, and selected other organisms.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/excluderanges) ]
 
 - [**CTCF**](https://bioconductor.org/packages/CTCF) - Genomic coordinates of FIMO-predicted CTCF binding sites with motif MA0139.1 (Jaspar).
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/CTCF) ]
-
-- [**preciseTAD**](https://bioconductor.org/packages/preciseTAD) - Prediction of boundaries of topologically associating domains (TADs) and chromatin loops from epigenomic data at base-level precision. [preciseTADhub](https://bioconductor.org/packages/preciseTADhub/) - Pre-trained random forest models obtained using preciseTAD
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/preciseTAD/), [Preprint](https://doi.org/10.1101/2020.09.03.282186), [preciseTAD predicted boundaries for 60 cell lines, BED files, hg38](https://drive.google.com/drive/folders/15Rc6PhrrBjThwE-5dSyNX-ILELaUu6uG?usp=sharing) ]
 
 - [**TADcompare**](https://bioconductor.org/packages/TADCompare/) - Differential and time course analysis of Topologically Associated Domains
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/TADCompare/), [GitHub](https://github.com/dozmorovlab/TADCompare), [Paper](https://doi.org/10.3389/fgene.2020.00158) ]

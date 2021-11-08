@@ -16,7 +16,7 @@ permalink: "publications.html"
 
 ## First/equal contribution/senior author publications
 
-- Stilianoudakis S, Dozmorov MG<sup>&lowast;</sup>. **preciseTAD: A machine learning framework for precise 3D domain boundary prediction at base-level resolution** _bioRxiv_ (September 4, 2020). [DOI](https://doi.org/10.1101/2020.09.03.282186) <span data-badge-type="4" data-doi="10.1101/2020.09.03.282186" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+- Stilianoudakis SC, Marshall MA, Dozmorov MG<sup>&lowast;</sup>. **preciseTAD: A transfer learning framework for 3D domain boundary prediction at base-pair resolution** _Bioinformatics_ (06 November 2021). [DOI](https://doi.org/10.1093/bioinformatics/btab743) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btab743" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Lospinoso K<sup>&lowast;</sup>, Dozmorov M<sup>&lowast;</sup>, El Fawal N, Raghu R, Chae WJ, Lee ED. **Overexpression of ERAP2N in Human Trophoblast Cells Promotes Cell Death**. _Int J Mol Sci_. 2021 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34445292), [DOI](https://doi.org/10.3390/ijms22168585) <span data-badge-type="4" data-doi="10.3390/ijms22168585" data-hide-no-mentions="true" class="altmetric-embed"> </span>  <sup>&lowast;</sup> - equal contribution
 
