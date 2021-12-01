@@ -12,8 +12,8 @@ permalink: "members.html"
 &nbsp;&nbsp;&nbsp;Affiliate, [Department of Pathology](https://pathology.vcu.edu/)  
 &nbsp;&nbsp;&nbsp;Virginia Commonwealth University  
 <!-- &nbsp;&nbsp;&nbsp;[CV](./files/Dozmorov_M-CV.pdf) -->  
-&nbsp;&nbsp;&nbsp;<img alt="Twitter Follow" height="20px" src="https://img.shields.io/twitter/follow/mikhaildozmorov?label=Friends%20on%20Twitter&style=social"> |
-<img alt="GitHub followers" height="20px" src="https://img.shields.io/github/followers/mdozmorov?label=GitHub%20friends&style=social"> | [Google Scholar](http://scholar.google.com/citations?user=soABR8sAAAAJ&hl=en) | [My bibliography](https://www.ncbi.nlm.nih.gov/myncbi/mikhail.dozmorov.1/bibliography/public/) | [LinkedIn](http://www.linkedin.com/in/dozmorov/) | [Faculty profile](https://medschool.vcu.edu/expertise/detail.html?id=mdozmorov)
+&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/mikhaildozmorov"><img alt="Twitter Follow" height="20px" src="https://img.shields.io/twitter/follow/mikhaildozmorov?label=Friends%20on%20Twitter&style=social"></a> |
+<a href="https://github.com/mdozmorov"><img alt="GitHub followers" height="20px" src="https://img.shields.io/github/followers/mdozmorov?label=GitHub%20friends&style=social"></a> | [Google Scholar](http://scholar.google.com/citations?user=soABR8sAAAAJ&hl=en) | [My bibliography](https://www.ncbi.nlm.nih.gov/myncbi/mikhail.dozmorov.1/bibliography/public/) | [LinkedIn](http://www.linkedin.com/in/dozmorov/) | [Faculty profile](https://medschool.vcu.edu/expertise/detail.html?id=mdozmorov)
 <br>
 <br>
 <!--[ORCID](https://orcid.org/0000-0002-0086-8358)-->
