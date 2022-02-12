@@ -14,10 +14,10 @@ We implement our methods as the R packages deployed on [Bioconductor](http://www
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/preciseTAD/), [GitHub](https://github.com/dozmorovlab/preciseTAD), [Paper](https://doi.org/10.1093/bioinformatics/btab743) ]
 
 - [**excluderanges**](https://bioconductor.org/packages/excluderanges) - Genomic ranges of deny (aka problematic, exclusion, blacklisted) regions that should be avoided when working with genomic data. For human, mouse, and selected other organisms.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/excluderanges) ]
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/excluderanges/), [GitHub](https://github.com/mdozmorov/excluderanges) ]
 
 - [**CTCF**](https://bioconductor.org/packages/CTCF) - Genomic coordinates of FIMO-predicted CTCF binding sites with motif MA0139.1 (Jaspar).
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/mdozmorov/CTCF) ]
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/CTCF/), [GitHub](https://github.com/mdozmorov/CTCF) ]
 
 - [**TADcompare**](https://bioconductor.org/packages/TADCompare/) - Differential and time course analysis of Topologically Associated Domains
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/TADCompare/), [GitHub](https://github.com/dozmorovlab/TADCompare), [Paper](https://doi.org/10.3389/fgene.2020.00158) ]
