@@ -105,6 +105,10 @@ permalink: "publications.html"
 
 ## Collaborative publications
 
+- Hampton JD, Peterson EJ, Katner SJ, Turner TH, Alzubi MA, Harrell JC, Dozmorov MG, Turner JBM, Gigliotti PJ, Kraskauskiene V, Shende M, Idowu MO, Puchallapalli M, Hu B, Litovchick L, Katsuta E, Takabe K, Farrell NP, Koblinski JE. **Exploitation of sulfated glycosaminoglycan status for precision medicine of Triplatin in triple-negative breast cancer.** _Mol Cancer Ther._ 2021 Nov 23. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34815360), [DOI](https://doi.org/10.1158/1535-7163.MCT-20-0969) <span data-badge-type="4" data-doi="10.1158/1535-7163.MCT-20-0969" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Floros KV, Chawla AT, Johnson-Berro MO, Khatri R, Stamatouli AM, Boikos SA, Dozmorov MG, Cowart LA, Faber AC. **MYCN upregulates the transsulfuration pathway to suppress the ferroptotic vulnerability in MYCN-amplified neuroblastoma.** _Cell Stress_, 2022 Jan 17
+
 - Rajesh Y, Reghupaty SC, Mendoza RG, Manna D, Banerjee I, Subler MA, Weldon K, Lai Z, Giashuddin S, Fisher PB, Sanyal AJ, Martin RK, Dozmorov MG, Windle JJ, Sarkar D. **Dissecting the Balance Between Metabolic and Oncogenic Functions of Astrocyte-Elevated Gene-1/Metadherin.** _Hepatol Commun._ 2021 Nov 5. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34741448), [DOI](https://doi.org/10.1002/hep4.1834) <span data-badge-type="4" data-doi="10.1002/hep4.1834" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Rashid NS, Hairr NS, Murray G, Olex AL, Leftwich TJ, Grible JM, Reed J, Dozmorov MG, Harrell JC. **Identification of nuclear export inhibitor-based combination therapies in preclinical models of triple-negative breast cancer.** _Transl Oncol._ 2021 Oct 7, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34628286), [DOI](https://doi.org/10.1016/j.tranon.2021.101235) <span data-badge-type="4" data-doi="10.1016/j.tranon.2021.101235" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
