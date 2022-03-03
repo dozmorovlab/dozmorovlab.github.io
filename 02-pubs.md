@@ -281,6 +281,8 @@ permalink: "publications.html"
 
 ## Book chapters
 
+- Green CD, Dozmorov MG, Spiegel S. **Analysis of Liver Responses to Non-alcoholic Steatohepatitis by mRNA-Sequencing.** _Methods Mol Biol._ 01 January 2022. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/35212994), [DOI](https://doi.org/10.1158/1535-7163.MCT-20-0969) <span data-badge-type="4" data-doi="10.1007/978-1-0716-2128-8_14" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
 - Dozmorov MG, Hurst RE. **Systems Biology for Signaling Networks, Chapter 4, From Microarray to Biology**, Springer Science+Business Media, LLC 2010 [DOI](https://doi.org/10.1007/978-1-4419-5797-9_4) <span data-badge-type="4" data-doi="10.1007/978-1-4419-5797-9_4" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 
