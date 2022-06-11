@@ -18,6 +18,15 @@ permalink: "members.html"
 <br>
 <!--[ORCID](https://orcid.org/0000-0002-0086-8358)-->
 
+<img alt="Jonathan Ogata" align="left" src="media/people/Jonathan_Ogata.jpeg" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;Jonathan Ogata, M.S. Bioinformatics & Genomics Track
+&nbsp;&nbsp;&nbsp;Bioinformatics intern, 2022-present  
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [The-Hungry-Caterpillar](https://github.com/The-Hungry-Caterpillar) | [LinkedIn](https://www.linkedin.com/in/jonathan-ogata/)   
+<br>
+<br>
+<br>
+
 <img alt="Maggie Marshall" align="left" src="media/people/MaggieMarshall.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Maggie Marshall, M.S. Bioinformatics student  
 &nbsp;&nbsp;&nbsp;Senior Research Assistant, 2020-present  
