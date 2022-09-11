@@ -105,6 +105,10 @@ permalink: "publications.html"
 
 ## Collaborative publications
 
+- Jaster AM, Younkin J, Cuddy T, de la Fuente Revenga M, Poklis JL, Dozmorov MG, González-Maeso J. **Differences across sexes on head-twitch behavior and 5-HT2A receptor signaling in C57BL/6J mice.** _Neurosci Lett._ 2022 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/35963476), [DOI](https://doi.org/10.1016/j.neulet.2022.136836) <span data-badge-type="4" data-doi="10.1016/j.neulet.2022.136836" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Cai J, Jacob S, Kurupi R, Dalton KM, Coon C, Greninger P, Egan RK, Stein GT, Murchie E, McClanaghan J, Adachi Y, Hirade K, Dozmorov MG, Glod J, Boikos SA, Ebi H, Hao H, Caponigro G, Benes CH, Faber AC. **High-risk neuroblastoma with NF1 loss of function is targetable using SHP2 inhibition.** _Cell Rep._ 2022 Jul 26, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/35905710), [DOI](https://doi.org/10.1016/j.celrep.2022.111095) <span data-badge-type="4" data-doi="10.1016/j.celrep.2022.111095" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 - Green CD, Weigel C, Brown RDR, Bedossa P, Dozmorov M, Sanyal AJ, Spiegel S. **A new preclinical model of western diet-induced progression of non-alcoholic steatohepatitis to hepatocellular carcinoma.** _FASEB J._ July 2022, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/35639028), [DOI](https://doi.org/10.1096/fj.202200346R) <span data-badge-type="4" data-doi="10.1096/fj.202200346R" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Mirshahi F, Aqbi HF, Isbell M, Manjili SH, Guo C, Saneshaw M, Bandyopadhyay D, Dozmorov M, Khosla A, Wack K, Carrasco-Zevallos OM, Idowu MO, Wang XY, Sanyal AJ, Manjili MH. **Distinct hepatic immunological patterns are associated with the progression or inhibition of hepatocellular carcinoma.** _Cell Rep._ 2022 Mar 1, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/35235789), [DOI](https://doi.org/10.1016/j.celrep.2022.110454) <span data-badge-type="4" data-doi="10.1016/j.celrep.2022.110454" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
