@@ -27,16 +27,17 @@ permalink: "members.html"
 <br>
 <br>
 
+## Alumni
+
 <img alt="Maggie Marshall" align="left" src="media/people/MaggieMarshall.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Maggie Marshall, M.S. Bioinformatics student  
-&nbsp;&nbsp;&nbsp;Senior Research Assistant, 2020-present  
+&nbsp;&nbsp;&nbsp;Former Senior Research Assistant, 2020-2022  
+&nbsp;&nbsp;&nbsp;First job: Bioinformatics Analyst at PetDx  
 <br>
-&nbsp;&nbsp;&nbsp;GitHub: [magmarshh](https://github.com/magmarshh)   
+&nbsp;&nbsp;&nbsp;GitHub: [magmarshh](https://github.com/magmarshh) | [LinkedIn](https://www.linkedin.com/in/maggie-marshall-03188115b/)     
 <br>
 <br>
 <br>
-
-## Alumni
 
 <img alt="Tyler Steele" align="left" src="media/people/TylerSteele.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Tyler Steele, Ph.D.  
