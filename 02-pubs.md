@@ -16,7 +16,9 @@ permalink: "publications.html"
 
 ## First/equal contribution/senior author publications
 
-- Stilianoudakis SC, Marshall MA, Dozmorov MG<sup>&lowast;</sup>. **preciseTAD: A transfer learning framework for 3D domain boundary prediction at base-pair resolution** _Bioinformatics_ (06 November 2021). [DOI](https://doi.org/10.1093/bioinformatics/btab743) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btab743" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+- Mikhail G Dozmorov, Wancen Mu, Eric S Davis, Stuart Lee, Timothy J Triche, Jr, Douglas H Phanstiel, Michael I Love. **CTCF: An R/Bioconductor Data Package of Human and Mouse Ctcf Binding Sites.** _Bioinformatics Advances_, [DOI](10.1093/bioadv/vbac097) <span data-badge-type="4" data-doi="10.1093/bioadv/vbac097" data-hide-no-mentions="true" class="altmetric-embed">
+
+- Stilianoudakis SC, Marshall MA, Dozmorov MG<sup>&lowast;</sup>. **preciseTAD: A transfer learning framework for 3D domain boundary prediction at base-pair resolution** _Bioinformatics_ (06 November 2021). [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34741515), [DOI](https://doi.org/10.1093/bioinformatics/btab743) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btab743" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Lospinoso K<sup>&lowast;</sup>, Dozmorov M<sup>&lowast;</sup>, El Fawal N, Raghu R, Chae WJ, Lee ED. **Overexpression of ERAP2N in Human Trophoblast Cells Promotes Cell Death**. _Int J Mol Sci_. 2021 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34445292), [DOI](https://doi.org/10.3390/ijms22168585) <span data-badge-type="4" data-doi="10.3390/ijms22168585" data-hide-no-mentions="true" class="altmetric-embed"> </span>  <sup>&lowast;</sup> - equal contribution
 
@@ -104,6 +106,13 @@ permalink: "publications.html"
 <sup>&lowast;</sup> indicates corresponding author, unless specified otherwise
 
 ## Collaborative publications
+
+- Rashid NS, Boyd DC, Olex AL, Grible JM, Duong AK, Alzubi MA, Altman JE, Leftwich TJ, Valentine AD, Hairr NS, Zboril EK, Smith TM Jr, Pfefferle AD, Dozmorov MG, Harrell JC. **Transcriptomic changes underlying EGFR inhibitor resistance in human and mouse models of basal-like breast cancer.** _Sci Rep._ 2022 Dec 8. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/36482068), [DOI](https://doi.org/10.1038/s41598-022-25541-3) <span data-badge-type="4" data-doi="10.1038/s41598-022-25541-3" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Manna D, Reghupaty SC, Camarena MDC, Mendoza RG, Subler MA, Koblinski JE, Martin R, Dozmorov MG, Mukhopadhyay ND, Liu J, Qu X, Das SK, Lai Z, Windle JJ, Fisher PB, Sarkar D. **Melanoma differentiation associated gene-9/syndecan binding protein promotes hepatocellular carcinoma.** _Hepatology._ 2022 Sep 19. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/36120720), [DOI](https://doi.org/10.1002/hep.32797) <span data-badge-type="4" data-doi="10.1002/hep.32797" data-hide-no-mentions="true" class="altmetric-embed"> </span> [News1](https://augustafreepress.com/drug-developed-at-vcu-to-potentially-treat-aggressive-liver-cancer/), [News2](https://www.miragenews.com/researchers-find-strong-evidence-for-testing-888633/)
+
+- Sheeba Jacob, Tia H Turner, Jinyang Cai, Konstantinos V Floros, Ann K Yu, Colin M Coon, Rishabh Khatri, Mohammad A Alzubi, Charles T Jakubik, Ynes M Bouck, Madhavi Puchalapalli, Mayuri Shende, Mikhail G Dozmorov, Sosipatros A Boikos, Bin Hu, J Chuck Harrell, Cyril H Benes, Jennifer E Koblinski, Carlotta Costa, Anthony C Faber. **Genomic screening reveals UBA1 as a potent and druggable target in c-MYC-high TNBC models.** _PNAS Nexus._ 11 October 2022. [DOI](https://doi.org/10.1093/pnasnexus/pgac232) <span data-badge-type="4" data-doi="10.1093/pnasnexus/pgac232" data-hide-no-mentions="true" class="altmetric-embed"> </span> [News](https://www.masseycancercenter.org/news/massey-scientists-pinpoint-druggable-target-in-aggressive-breast-cancer)
+
 
 - Jaster AM, Younkin J, Cuddy T, de la Fuente Revenga M, Poklis JL, Dozmorov MG, González-Maeso J. **Differences across sexes on head-twitch behavior and 5-HT2A receptor signaling in C57BL/6J mice.** _Neurosci Lett._ 2022 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/35963476), [DOI](https://doi.org/10.1016/j.neulet.2022.136836) <span data-badge-type="4" data-doi="10.1016/j.neulet.2022.136836" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
