@@ -14,13 +14,11 @@ permalink: "publications.html"
 [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/mikhail.dozmorov.1/bibliography/public/) | 
 [ORCID](https://orcid.org/0000-0002-0086-8358) 
 
-## First/equal contribution/senior author publications
+## Lead/senior author publications
 
 - Mikhail G Dozmorov, Wancen Mu, Eric S Davis, Stuart Lee, Timothy J Triche, Jr, Douglas H Phanstiel, Michael I Love. **CTCF: An R/Bioconductor Data Package of Human and Mouse Ctcf Binding Sites.** _Bioinformatics Advances_, [DOI](10.1093/bioadv/vbac097) <span data-badge-type="4" data-doi="10.1093/bioadv/vbac097" data-hide-no-mentions="true" class="altmetric-embed">
 
 - Stilianoudakis SC, Marshall MA, Dozmorov MG<sup>&lowast;</sup>. **preciseTAD: A transfer learning framework for 3D domain boundary prediction at base-pair resolution** _Bioinformatics_ (06 November 2021). [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34741515), [DOI](https://doi.org/10.1093/bioinformatics/btab743) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btab743" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-- Lospinoso K<sup>&lowast;</sup>, Dozmorov M<sup>&lowast;</sup>, El Fawal N, Raghu R, Chae WJ, Lee ED. **Overexpression of ERAP2N in Human Trophoblast Cells Promotes Cell Death**. _Int J Mol Sci_. 2021 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34445292), [DOI](https://doi.org/10.3390/ijms22168585) <span data-badge-type="4" data-doi="10.3390/ijms22168585" data-hide-no-mentions="true" class="altmetric-embed"> </span>  <sup>&lowast;</sup> - equal contribution
 
 - Dong X<sup>&lowast;</sup>, Liu C, Dozmorov M<sup>&lowast;</sup>. **Review of multi-omics data resources and integrative analysis for human brain disorders**. _Brief Funct Genomics_. 2021 May 8, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/33969380/), [DOI](https://doi.org/10.1093/bfgp/elab024) <span data-badge-type="4" data-doi="10.1093/bfgp/elab024" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
@@ -45,15 +43,11 @@ permalink: "publications.html"
 
 - Dozmorov MG<sup>&lowast;</sup>. **Disease classification: from phenotypic similarity to integrative genomics and beyond.** _Brief Bioinform_. 2018 Jun 22. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29939197), [DOI](https://doi.org/10.1093/bib/bby049) <span data-badge-type="4" data-doi="10.1093/bib/bby049" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
-- Dozmorov MG, Bilbo SD, Kollins SH, Zucker N, Do EK, Schechter JC, Zhang JJ, Murphy SK, Hoyo C, Fuemmeler BF. **Associations between maternal cytokine levels during gestation and measures of child cognitive abilities and executive functioning.** _Brain Behav Immun_. 2018 Mar 26. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29588230), [DOI](https://doi.org/10.1016/j.bbi.2018.03.029) <span data-badge-type="4" data-doi="10.1016/j.bbi.2018.03.029" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
 - Dozmorov MG<sup>&lowast;</sup>. **Epigenomic annotation-based interpretation of genomic data: from enrichment analysis to machine learning.** _Bioinformatics_. 2017 Oct 15. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29028263), [DOI](https://doi.org/10.1093/bioinformatics/btx414) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btx414" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Dozmorov MG, Coit P, Maksimowicz-McKinnon K, Sawalha AH. **Age-associated DNA methylation changes in naive CD4+ T cells suggest an evolving autoimmune epigenotype in aging T cells.** _Epigenomics_. 2017. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28322571), [DOI](https://doi.org/10.2217/epi-2016-0143) <span data-badge-type="4" data-doi="10.2217/epi-2016-0143" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Glass ER, Dozmorov MG<sup>&lowast;</sup>. **Improving sensitivity of linear regression-based cell type-specific differential expression deconvolution with per-gene vs. global significance threshold.** _BMC Bioinformatics_ 2016 Oct 6. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27766949), [DOI](https://doi.org/10.1186/s12859-016-1226-z) <span data-badge-type="4" data-doi="10.1186/s12859-016-1226-z" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
-
-- Coit P, Dozmorov MG<sup>&lowast;</sup>, Merrill JT, McCune J, Maksimowicz-McKinnon K, Wren JD, Sawalha AH. **Epigenetic reprogramming in naïve CD4+ T cells favors T cell activation and non-Th1 effector T cell immune response as an early event in lupus flares.** _Arthritis & Rheumatology_ 2016 Apr 25. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27111767), [DOI](https://doi.org/10.1002/art.39720) <span data-badge-type="4" data-doi="10.1002/art.39720" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - co-first author
 
 - Dozmorov MG<sup>&lowast;</sup>, Cara LR, Giles CB, Wren JD. **GenomeRunner web server: Regulatory similarity and differences define the functional impact of SNP sets.** _Bioinformatics_ 2016 Apr 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27153607), [DOI](https://doi.org/10.1093/bioinformatics/btw169) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btw169" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
@@ -70,8 +64,6 @@ permalink: "publications.html"
 - Dozmorov MG<sup>&lowast;</sup>, Giles CB, Koelsch KA, Wren JD<sup>&lowast;</sup>. **Systematic classification of non-coding RNAs by epigenomic similarity.** _BMC Bioinformatics_. 2013, Oct 9. Best paper of the MCBIOS X conference. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24267974), [DOI](https://doi.org/10.1186/1471-2105-14-S14-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-14-S14-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Dozmorov MG<sup>&lowast;</sup>, Cara LR, Giles CB, Wren JD<sup>&lowast;</sup>. **GenomeRunner: automating genome exploration.** _Bioinformatics_. 2012 Feb 1. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22155868), [DOI](https://doi.org/10.1093/bioinformatics/btr666) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btr666" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
-
-- Delgado-Vega AM, Dozmorov MG<sup>&lowast;</sup>, Quirós MB, Wu YY, Martínez-García B, Kozyrev SV,Frostegård J, Truedsson L, de Ramón E, González-Escribano MF, Ortego-Centeno N,Pons-Estel BA, D'Alfonso S, Sebastiani GD, Witte T, Lauwerys BR, Endreffy E,Kovács L, Vasconcelos C, da Silva BM, Wren JD, Martin J, Castillejo-López C, Alarcón-Riquelme ME. **Fine mapping and conditional analysis identify a new mutation in the autoimmunity susceptibility gene BLK that leads to reduced half-life of the BLK protein.** _Ann Rheum Dis_. 2012 jul 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22696686), [DOI](https://doi.org/10.1136/annrheumdis-2011-200987) <span data-badge-type="4" data-doi="10.1136/annrheumdis-2011-200987" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - co-first author
 
 - Dozmorov MG, Wren JD. **High-throughput processing and normalization of one-color microarrays for transcriptional meta-analyses.** _BMC Bioinformatics_. 2011 Oct 18. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22166002), [DOI](https://doi.org/10.1186/1471-2105-12-S10-S2) <span data-badge-type="4" data-doi="10.1186/1471-2105-12-S10-S2" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
@@ -104,6 +96,16 @@ permalink: "publications.html"
 - Dozmorov M, Niu YP, Xu HP, Xiao MY, Li R, Sandberg M, Wigström H. **Active decay of composite excitatory postsynaptic potentials in hippocampal slices from young rats.** _Brain Res_. 2003 May 23. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/12729952), [DOI](https://doi.org/10.1016/s0006-8993(03)02536-8) <span data-badge-type="4" data-doi="10.1016/s0006-8993(03)02536-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 <sup>&lowast;</sup> indicates corresponding author, unless specified otherwise
+
+## Equal contributions
+
+- Lospinoso K<sup>&lowast;</sup>, Dozmorov M<sup>&lowast;</sup>, El Fawal N, Raghu R, Chae WJ, Lee ED. **Overexpression of ERAP2N in Human Trophoblast Cells Promotes Cell Death**. _Int J Mol Sci_. 2021 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34445292), [DOI](https://doi.org/10.3390/ijms22168585) <span data-badge-type="4" data-doi="10.3390/ijms22168585" data-hide-no-mentions="true" class="altmetric-embed"> </span>  <sup>&lowast;</sup> - equal contribution
+
+- Dozmorov MG, Bilbo SD, Kollins SH, Zucker N, Do EK, Schechter JC, Zhang JJ, Murphy SK, Hoyo C, Fuemmeler BF. **Associations between maternal cytokine levels during gestation and measures of child cognitive abilities and executive functioning.** _Brain Behav Immun_. 2018 Mar 26. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29588230), [DOI](https://doi.org/10.1016/j.bbi.2018.03.029) <span data-badge-type="4" data-doi="10.1016/j.bbi.2018.03.029" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Coit P, Dozmorov MG<sup>&lowast;</sup>, Merrill JT, McCune J, Maksimowicz-McKinnon K, Wren JD, Sawalha AH. **Epigenetic reprogramming in naïve CD4+ T cells favors T cell activation and non-Th1 effector T cell immune response as an early event in lupus flares.** _Arthritis & Rheumatology_ 2016 Apr 25. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27111767), [DOI](https://doi.org/10.1002/art.39720) <span data-badge-type="4" data-doi="10.1002/art.39720" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - co-first author
+
+- Delgado-Vega AM, Dozmorov MG<sup>&lowast;</sup>, Quirós MB, Wu YY, Martínez-García B, Kozyrev SV,Frostegård J, Truedsson L, de Ramón E, González-Escribano MF, Ortego-Centeno N,Pons-Estel BA, D'Alfonso S, Sebastiani GD, Witte T, Lauwerys BR, Endreffy E,Kovács L, Vasconcelos C, da Silva BM, Wren JD, Martin J, Castillejo-López C, Alarcón-Riquelme ME. **Fine mapping and conditional analysis identify a new mutation in the autoimmunity susceptibility gene BLK that leads to reduced half-life of the BLK protein.** _Ann Rheum Dis_. 2012 jul 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22696686), [DOI](https://doi.org/10.1136/annrheumdis-2011-200987) <span data-badge-type="4" data-doi="10.1136/annrheumdis-2011-200987" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - co-first author
 
 ## Collaborative publications
 
