@@ -17,6 +17,14 @@ permalink: "members.html"
 <br>
 <br>
 
+<img alt="Brydon Wall" align="left" src="media/people/Brydon_Wall.jpeg" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;Brydon Wall, M.S. Bioinformatics student
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [WallBPG](https://github.com/WallBPG) 
+<br>
+<br>
+<br>
+
 ## Alumni
 
 <img alt="Jonathan Ogata" align="left" src="media/people/Jonathan_Ogata.jpeg" width="100" height="100"/>
