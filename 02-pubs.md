@@ -16,7 +16,7 @@ permalink: "publications.html"
 
 ## Lead/senior author publications
 
-- Dozmorov MG<sup>&lowast;</sup>, Marshall MA, Rashid NS, Grible JM, Valentine A, Olex AL, Murthy K, Chakraborty A, Reyna J, Figueroa DS, Hinojosa-Gonzalez L, Da-Inn Lee E, Baur BA, Roy S, Ay F, Harrell JC. **Rewiring of the 3D genome during acquisition of carboplatin resistance in a triple-negative breast cancer patient-derived xenograft**. _Sci Rep._ 2023 Apr 3, PMID](https://www.ncbi.nlm.nih.gov/pubmed/37012431), [DOI](https://doi.org/10.1038/s41598-023-32568-7) <span data-badge-type="4" data-doi="10.1038/s41598-023-32568-7" data-hide-no-mentions="true" class="altmetric-embed">
+- Dozmorov MG<sup>&lowast;</sup>, Marshall MA, Rashid NS, Grible JM, Valentine A, Olex AL, Murthy K, Chakraborty A, Reyna J, Figueroa DS, Hinojosa-Gonzalez L, Da-Inn Lee E, Baur BA, Roy S, Ay F, Harrell JC. **Rewiring of the 3D genome during acquisition of carboplatin resistance in a triple-negative breast cancer patient-derived xenograft**. _Sci Rep._ 2023 Apr 3, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37012431), [DOI](https://doi.org/10.1038/s41598-023-32568-7) <span data-badge-type="4" data-doi="10.1038/s41598-023-32568-7" data-hide-no-mentions="true" class="altmetric-embed">
 
 - Dozmorov MG<sup>&lowast;</sup>, Mu W, Davis ES, Lee S, Triche TJ Jr, Phanstiel DH, Love MI. **CTCF: an R/bioconductor data package of human and mouse CTCF binding sites** _Bioinformatics Advances_, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/36699364), [DOI](https://doi.org/10.1093/bioadv/vbac097) <span data-badge-type="4" data-doi="10.1093/bioadv/vbac097" data-hide-no-mentions="true" class="altmetric-embed">
 
