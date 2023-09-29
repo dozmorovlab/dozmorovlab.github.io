@@ -6,7 +6,7 @@ permalink: "teaching.html"
 ---
 {% include JB/setup %}
 
-- **Biostatistical computing with R**, BIOS524, Instructor/Course director. This course is an introduction to R programming. It covers R fundamentals and statistical functions, R packages, data management/manipulation and plotting using Tidyverse, reproducible research with GitHub, interactive apps with Shiny. [Course website 2020](https://bios524-biostatistical-computing-r.netlify.app/), [Course website 2021](https://bios524-r-2021.netlify.app/), [Course website 2022](https://bios524-r-2022.netlify.app/)
+- **Biostatistical computing with R**, BIOS524, Instructor/Course director. This course is an introduction to R programming. It covers R fundamentals and statistical functions, R packages, data management/manipulation and plotting using Tidyverse, reproducible research with GitHub, interactive apps with Shiny. [Course website 2020](https://bios524-biostatistical-computing-r.netlify.app/), [2021](https://bios524-r-2021.netlify.app/), [2022](https://bios524-r-2022.netlify.app/), [2023](https://bios524-r-2023.netlify.app/)
 
 - **Cancer Bioinformatics**, BIOS691, Instructor/Course director. This 3-credit hour course provides an introduction to genomics, sequencing technologies, data analysis. [Course website](https://bios691-cancer-bioinformatics.netlify.app/)
 
