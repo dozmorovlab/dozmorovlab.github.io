@@ -111,6 +111,10 @@ permalink: "publications.html"
 
 ## Collaborative publications
 
+- Chougoni KK, Park H, Damle PK, Mason T, Cheng B, Dcona MM, Szomju B, Dozmorov MG, Idowu MO, Grossman SR. **Coordinate transcriptional regulation of ErbB2/3 by C-terminal binding protein 2 signals sensitivity to ErbB2 inhibition in pancreatic adenocarcinoma.** _Oncogenesis._ 2023 Nov 10. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37949862), [DOI](https://doi.org/10.1038/s41389-023-00498-8) <span data-badge-type="4" data-doi="10.1038/s41389-023-00498-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Reghupaty SC, Kanwal S, Mendoza RG, Davis E, Li H, Lai Z, Dozmorov MG, Faison MO, Siddiqui RA, Sarkar D. **Dysregulation of Type I Interferon (IFN-I) Signaling: A Potential Contributor to Racial Disparity in Hepatocellular Carcinoma (HCC).** _Cancers (Basel)_. 2023 Aug 27. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37686559), [DOI](https://doi.org/10.3390/cancers15174283) <span data-badge-type="4" data-doi="10.3390/cancers15174283" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 - Reghupaty SC, Kanwal S, Mendoza RG, Davis E, Li H, Lai Z, Dozmorov MG, Faison MO, Siddiqui RA, Sarkar D. **Dysregulation of Type I Interferon (IFN-I) Signaling: A Potential Contributor to Racial Disparity in Hepatocellular Carcinoma (HCC).** _Cancers (Basel)._ 2023 Aug 27. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37686559), [DOI](https://doi.org/10.3390/cancers15174283) <span data-badge-type="4" data-doi="10.3390/cancers15174283" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Mockenhaupt K, Tyc KM, McQuiston A, Gonsiewski AK, Zarei-Kheirabadi M, Hariprashad A, Biswas DD, Gupta AS, Olex AL, Singh SK, Waters MR, Dupree JL, Dozmorov MG, Kordula T. **Yin Yang 1 controls cerebellar astrocyte maturation**. _Glia._ 2023 Jul 7. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37417428), [DOI](https://doi.org/10.1002/glia.24434) <span data-badge-type="4" data-doi="10.1002/glia.24434" data-hide-no-mentions="true" class="altmetric-embed"> </span>
