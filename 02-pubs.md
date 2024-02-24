@@ -111,6 +111,8 @@ permalink: "publications.html"
 
 ## Collaborative publications
 
+- Reghupaty SC, Kanwal S, Mendoza RG, Davis E, Li H, Lai Z, Dozmorov MG, Faison MO, Siddiqui RA, Sarkar D. **Dysregulation of Type I Interferon (IFN-I) Signaling: A Potential Contributor to Racial Disparity in Hepatocellular Carcinoma (HCC).** _Cancers (Basel)._ 2023 Aug 27. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37686559), [DOI](https://doi.org/10.3390/cancers15174283) <span data-badge-type="4" data-doi="10.3390/cancers15174283" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 - Mockenhaupt K, Tyc KM, McQuiston A, Gonsiewski AK, Zarei-Kheirabadi M, Hariprashad A, Biswas DD, Gupta AS, Olex AL, Singh SK, Waters MR, Dupree JL, Dozmorov MG, Kordula T. **Yin Yang 1 controls cerebellar astrocyte maturation**. _Glia._ 2023 Jul 7. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37417428), [DOI](https://doi.org/10.1002/glia.24434) <span data-badge-type="4" data-doi="10.1002/glia.24434" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Zboril EK, Grible JM, Boyd DC, Hairr NS, Leftwich TJ, Esquivel MF, Duong AK, Turner SA, Ferreira-Gonzalez A, Olex AL, Sartorius CA, Dozmorov MG, Harrell JC. **Stratification of Tamoxifen Synergistic Combinations for the Treatment of ER+ Breast Cancer.** _Cancers (Basel)._ 2023 Jun 14, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37370789), [DOI](https://doi.org/10.3390/cancers15123179) <span data-badge-type="4" data-doi="10.3390/cancers15123179" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -120,6 +122,8 @@ permalink: "publications.html"
 - Mu W, Davis ES, Lee S, Dozmorov MG, Phanstiel DH, Love MI. **bootRanges: flexible generation of null sets of genomic ranges for hypothesis testing.** _Bioinformatics._ 2023 May 4. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37042725), [DOI](https://doi.org/10.1093/bioinformatics/btad190) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btad190" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Davis ES, Mu W, Lee S, Dozmorov MG, Love MI, Phanstiel DH. **matchRanges: generating null hypothesis genomic ranges via covariate-matched sampling.** _Bioinformatics._ 2023 May 4. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37084270), [DOI](https://doi.org/10.1093/bioinformatics/btad197) <span data-badge-type="4" data-doi="10.1093/bioinformatics/btad197" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+- Boyd DC, Zboril EK, Olex AL, Leftwich TJ, Hairr NS, Byers HA, Valentine AD, Altman JE, Alzubi MA, Grible JM, Turner SA, Ferreira-Gonzalez A, Dozmorov MG, Harrell JC. **Discovering Synergistic Compounds with BYL-719 in PI3K Overactivated Basal-like PDXs.** _Cancers (Basel)._ 2023 Mar 3. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/36900375), [DOI](https://doi.org/10.3390/cancers15051582) <span data-badge-type="4" data-doi="10.3390/cancers15051582" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Zheng X, Dozmorov MG, Strohlein CE, Bastacky S, Sawalha AH. **Ezh2 knockout in B cells impairs plasmablast differentiation and ameliorates lupus-like disease in MRL/lpr mice.** _Arthritis Rheumatol._ 2023 Mar 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/36897808), [DOI](https://doi.org/10.1002/art.42492) <span data-badge-type="4" data-doi="10.1002/art.42492" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
@@ -148,6 +152,8 @@ permalink: "publications.html"
 - Hampton JD, Peterson EJ, Katner SJ, Turner TH, Alzubi MA, Harrell JC, Dozmorov MG, Turner JBM, Gigliotti PJ, Kraskauskiene V, Shende M, Idowu MO, Puchallapalli M, Hu B, Litovchick L, Katsuta E, Takabe K, Farrell NP, Koblinski JE. **Exploitation of sulfated glycosaminoglycan status for precision medicine of Triplatin in triple-negative breast cancer.** _Mol Cancer Ther._ 2021 Nov 23. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34815360), [DOI](https://doi.org/10.1158/1535-7163.MCT-20-0969) <span data-badge-type="4" data-doi="10.1158/1535-7163.MCT-20-0969" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Floros KV, Chawla AT, Johnson-Berro MO, Khatri R, Stamatouli AM, Boikos SA, Dozmorov MG, Cowart LA, Faber AC. **MYCN upregulates the transsulfuration pathway to suppress the ferroptotic vulnerability in MYCN-amplified neuroblastoma.** _Cell Stress_, 2022 Jan 17
+
+- Floros KV, Chawla AT, Johnson-Berro MO, Khatri R, Stamatouli AM, Boikos SA, Dozmorov MG, Cowart LA, Faber AC. **MYCN upregulates the transsulfuration pathway to suppress the ferroptotic vulnerability in MYCN-amplified neuroblastoma.** _Cell Stress._ 2022 Jan 17. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/35174317), [DOI](https://doi.org/10.15698/cst2022.02.264) <span data-badge-type="4" data-doi="10.15698/cst2022.02.264" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Rajesh Y, Reghupaty SC, Mendoza RG, Manna D, Banerjee I, Subler MA, Weldon K, Lai Z, Giashuddin S, Fisher PB, Sanyal AJ, Martin RK, Dozmorov MG, Windle JJ, Sarkar D. **Dissecting the Balance Between Metabolic and Oncogenic Functions of Astrocyte-Elevated Gene-1/Metadherin.** _Hepatol Commun._ 2021 Nov 5. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34741448), [DOI](https://doi.org/10.1002/hep4.1834) <span data-badge-type="4" data-doi="10.1002/hep4.1834" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
