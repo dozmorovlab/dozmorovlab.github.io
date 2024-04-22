@@ -16,6 +16,8 @@ permalink: "publications.html"
 
 ## Lead/senior author publications
 
+Wall BPG, Nguyen M, Harrell JC, Dozmorov MG<sup>&lowast;</sup>. **Machine and deep learning methods for predicting 3D genome organization.** _ArXiv [Preprint]._ 2024 Mar 4. arXiv:2403.03231v1. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/38495565)
+
 - Dozmorov MG<sup>&lowast;</sup>, Marshall MA, Rashid NS, Grible JM, Valentine A, Olex AL, Murthy K, Chakraborty A, Reyna J, Figueroa DS, Hinojosa-Gonzalez L, Da-Inn Lee E, Baur BA, Roy S, Ay F, Harrell JC. **Rewiring of the 3D genome during acquisition of carboplatin resistance in a triple-negative breast cancer patient-derived xenograft**. _Sci Rep._ 2023 Apr 3, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37012431), [DOI](https://doi.org/10.1038/s41598-023-32568-7) <span data-badge-type="4" data-doi="10.1038/s41598-023-32568-7" data-hide-no-mentions="true" class="altmetric-embed">
 
 - Dozmorov MG<sup>&lowast;</sup>, Mu W, Davis ES, Lee S, Triche TJ Jr, Phanstiel DH, Love MI. **CTCF: an R/bioconductor data package of human and mouse CTCF binding sites** _Bioinformatics Advances_, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/36699364), [DOI](https://doi.org/10.1093/bioadv/vbac097) <span data-badge-type="4" data-doi="10.1093/bioadv/vbac097" data-hide-no-mentions="true" class="altmetric-embed">
@@ -110,6 +112,10 @@ permalink: "publications.html"
 - Delgado-Vega AM, Dozmorov MG<sup>&lowast;</sup>, Quirós MB, Wu YY, Martínez-García B, Kozyrev SV,Frostegård J, Truedsson L, de Ramón E, González-Escribano MF, Ortego-Centeno N,Pons-Estel BA, D'Alfonso S, Sebastiani GD, Witte T, Lauwerys BR, Endreffy E,Kovács L, Vasconcelos C, da Silva BM, Wren JD, Martin J, Castillejo-López C, Alarcón-Riquelme ME. **Fine mapping and conditional analysis identify a new mutation in the autoimmunity susceptibility gene BLK that leads to reduced half-life of the BLK protein.** _Ann Rheum Dis_. 2012 jul 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22696686), [DOI](https://doi.org/10.1136/annrheumdis-2011-200987) <span data-badge-type="4" data-doi="10.1136/annrheumdis-2011-200987" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - co-first author
 
 ## Collaborative publications
+
+- Zheng X, Dozmorov MG, Espinoza L, Bowes MM, Bastacky S, Sawalha AH. **Inducible deletion of Ezh2 in CD4+ T cells inhibits kidney T cell infiltration and prevents interstitial nephritis in MRL/ lpr lupus-prone mice.** _bioRxiv [Preprint]_. 2024 Mar 7. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/38496595), [DOI](https://doi.org/10.1101/2024.03.04.583401) <span data-badge-type="4" data-doi="10.1101/2024.03.04.583401" data-hide-no-mentions="true" class="altmetric-embed"> </span>             
+
+- Abudahab S, Kronfol MM, Dozmorov MG, Campbell T, Jahr FM, Nguyen J, AlAzzeh O, Al Saeedy DY, Victor A, Lee S, Malay S, Lapato DM, Halquist MS, McRae M, Deshpande LS, Slattum PW, Price ET, McClay JL. **Genome-wide analysis of hepatic DNA methylation reveals impact of epigenetic aging on xenobiotic metabolism and transport genes in an aged mouse model.** _Geroscience._ 2024 Apr 1. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/38558216), [DOI](https://doi.org/10.1007/s11357-024-01137-9) <span data-badge-type="4" data-doi="10.1007/s11357-024-01137-9" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 - Chougoni KK, Park H, Damle PK, Mason T, Cheng B, Dcona MM, Szomju B, Dozmorov MG, Idowu MO, Grossman SR. **Coordinate transcriptional regulation of ErbB2/3 by C-terminal binding protein 2 signals sensitivity to ErbB2 inhibition in pancreatic adenocarcinoma.** _Oncogenesis._ 2023 Nov 10. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37949862), [DOI](https://doi.org/10.1038/s41389-023-00498-8) <span data-badge-type="4" data-doi="10.1038/s41389-023-00498-8" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
