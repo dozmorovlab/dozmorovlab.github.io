@@ -16,7 +16,7 @@ permalink: "publications.html"
 
 ## Lead/senior author publications
 
-- Wall BPG, Nguyen M, Harrell JC, Dozmorov MG<sup>&lowast;</sup>. **Machine and deep learning methods for predicting 3D genome organization.** _ArXiv [Preprint]._ 2024 Mar 4. arXiv:2403.03231v1. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/38495565)
+- Wall BPG, Nguyen M, Harrell JC, Dozmorov MG<sup>&lowast;</sup>. **Machine and deep learning methods for predicting 3D genome organization.** Methods Mol Biol._ 2025. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/39283464), [DOI](https://doi.org/10.1007/978-1-0716-4136-1_22) <span data-badge-type="4" data-doi="10.1007/978-1-0716-4136-1_22" data-hide-no-mentions="true" class="altmetric-embed">, [Preprint](https://arxiv.org/abs/2403.03231)
 
 - Dozmorov MG<sup>&lowast;</sup>, Marshall MA, Rashid NS, Grible JM, Valentine A, Olex AL, Murthy K, Chakraborty A, Reyna J, Figueroa DS, Hinojosa-Gonzalez L, Da-Inn Lee E, Baur BA, Roy S, Ay F, Harrell JC. **Rewiring of the 3D genome during acquisition of carboplatin resistance in a triple-negative breast cancer patient-derived xenograft**. _Sci Rep._ 2023 Apr 3, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37012431), [DOI](https://doi.org/10.1038/s41598-023-32568-7) <span data-badge-type="4" data-doi="10.1038/s41598-023-32568-7" data-hide-no-mentions="true" class="altmetric-embed">
 
@@ -112,11 +112,16 @@ permalink: "publications.html"
 - Delgado-Vega AM, Dozmorov MG<sup>&lowast;</sup>, Quirós MB, Wu YY, Martínez-García B, Kozyrev SV,Frostegård J, Truedsson L, de Ramón E, González-Escribano MF, Ortego-Centeno N,Pons-Estel BA, D'Alfonso S, Sebastiani GD, Witte T, Lauwerys BR, Endreffy E,Kovács L, Vasconcelos C, da Silva BM, Wren JD, Martin J, Castillejo-López C, Alarcón-Riquelme ME. **Fine mapping and conditional analysis identify a new mutation in the autoimmunity susceptibility gene BLK that leads to reduced half-life of the BLK protein.** _Ann Rheum Dis_. 2012 jul 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22696686), [DOI](https://doi.org/10.1136/annrheumdis-2011-200987) <span data-badge-type="4" data-doi="10.1136/annrheumdis-2011-200987" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - co-first author
 
 ## Collaborative publications
+
+- Sung EA, Dozmorov MG, Song S, Aung T, Park MH, Sime PJ, Chae WJ. **Ablation of LRP6 in alpha-smooth muscle actin-expressing cells abrogates lung inflammation and fibrosis upon bleomycin-induced lung injury.** bioRxiv [Preprint]. 2024 Sep 10:2024.09.05.611327. doi: 10.1101/2024.09.05.611327.
+PMID: 39314349
+
+- Gnatowski ER, Jurmain JL, Dozmorov MG, Wolstenholme JT, Miles MF. **Ninein, a candidate gene for ethanol anxiolysis, shows complex exon-specific expression and alternative splicing differences between C57BL/6J and DBA/2J mice.** Front Genet. 2024 Sep 11;15:1455616. doi: 10.3389/fgene.2024.1455616. eCollection 2024. PMID: 39323865
     
-- Gedik H, Peterson R, Chatzinakos C, Dozmorov MG, Vladimirov V, Riley BP, Bacanu SA. A novel multi-omics mendelian randomization method for gene set enrichment and its application to psychiatric disorders. medRxiv [Preprint]. 2024 Apr 15:2024.04.14.24305811. doi: 10.1101/2024.04.14.24305811.
+- Gedik H, Peterson R, Chatzinakos C, Dozmorov MG, Vladimirov V, Riley BP, Bacanu SA. **A novel multi-omics mendelian randomization method for gene set enrichment and its application to psychiatric disorders.** medRxiv [Preprint]. 2024 Apr 15:2024.04.14.24305811. doi: 10.1101/2024.04.14.24305811.
 PMID: 38699366
 
-- Floros KV, Fairchild CK, Li J, Zhang K, Roberts JL, Kurupi R, Hu B, Kraskauskiene V, Hosseini N, Shen S, Inge MM, Smith-Fry K, Li L, Sotiriou A, Dalton KM, Jose A, Abdelfadiel EI, Xing Y, Hill RD, Slaughter JM, Shende M, Lorenz MR, Hinojosa MR, Belvin BR, Lai Z, Boikos SA, Stamatouli AM, Lewis JP, Manjili MH, Valerie K, Li R, Banito A, Poklepovic A, Koblinski JE, Siggers T, Dozmorov MG, Jones KB, Radhakrishnan SK, Faber AC. Targeting of SUMOylation leads to cBAF complex stabilization and disruption of the SS18::SSX transcriptome in Synovial Sarcoma. bioRxiv [Preprint]. 2024 Apr 27:2024.04.25.591023. doi: 10.1101/2024.04.25.591023. PMID: 38712286
+- Floros KV, Fairchild CK, Li J, Zhang K, Roberts JL, Kurupi R, Hu B, Kraskauskiene V, Hosseini N, Shen S, Inge MM, Smith-Fry K, Li L, Sotiriou A, Dalton KM, Jose A, Abdelfadiel EI, Xing Y, Hill RD, Slaughter JM, Shende M, Lorenz MR, Hinojosa MR, Belvin BR, Lai Z, Boikos SA, Stamatouli AM, Lewis JP, Manjili MH, Valerie K, Li R, Banito A, Poklepovic A, Koblinski JE, Siggers T, Dozmorov MG, Jones KB, Radhakrishnan SK, Faber AC. **Targeting of SUMOylation leads to cBAF complex stabilization and disruption of the SS18::SSX transcriptome in Synovial Sarcoma.** bioRxiv [Preprint]. 2024 Apr 27:2024.04.25.591023. doi: 10.1101/2024.04.25.591023. PMID: 38712286
 
 - Zheng X, Dozmorov MG, Espinoza L, Bowes MM, Bastacky S, Sawalha AH. **Inducible deletion of Ezh2 in CD4+ T cells inhibits kidney T cell infiltration and prevents interstitial nephritis in MRL/ lpr lupus-prone mice.** _bioRxiv [Preprint]_. 2024 Mar 7. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/38496595), [DOI](https://doi.org/10.1101/2024.03.04.583401) <span data-badge-type="4" data-doi="10.1101/2024.03.04.583401" data-hide-no-mentions="true" class="altmetric-embed"> </span>             
 
