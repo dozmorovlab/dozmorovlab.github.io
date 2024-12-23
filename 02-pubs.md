@@ -16,6 +16,8 @@ permalink: "publications.html"
 
 ## Lead/senior author publications
 
+- My Nguyen, Brydon P. G. Wall, J. Chuck Harrell, Mikhail G. Dozmorov<sup>&lowast;</sup> **scHiCcompare: an R package for differential analysis of single-cell Hi-C data** _bioRxiv_ 2024.11.06; [DOI](https://doi.org/10.1101/2024.11.06.622369)
+
 - Wall BPG, Nguyen M, Harrell JC, Dozmorov MG<sup>&lowast;</sup>. **Machine and deep learning methods for predicting 3D genome organization.** _Methods Mol Biol._ 2025. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/39283464), [DOI](https://doi.org/10.1007/978-1-0716-4136-1_22) <span data-badge-type="4" data-doi="10.1007/978-1-0716-4136-1_22" data-hide-no-mentions="true" class="altmetric-embed">, [Preprint](https://arxiv.org/abs/2403.03231)
 
 - Dozmorov MG<sup>&lowast;</sup>, Marshall MA, Rashid NS, Grible JM, Valentine A, Olex AL, Murthy K, Chakraborty A, Reyna J, Figueroa DS, Hinojosa-Gonzalez L, Da-Inn Lee E, Baur BA, Roy S, Ay F, Harrell JC. **Rewiring of the 3D genome during acquisition of carboplatin resistance in a triple-negative breast cancer patient-derived xenograft**. _Sci Rep._ 2023 Apr 3, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/37012431), [DOI](https://doi.org/10.1038/s41598-023-32568-7) <span data-badge-type="4" data-doi="10.1038/s41598-023-32568-7" data-hide-no-mentions="true" class="altmetric-embed">
