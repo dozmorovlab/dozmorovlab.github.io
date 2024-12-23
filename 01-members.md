@@ -23,6 +23,9 @@ permalink: "members.html"
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 <img alt="Brydon Wall" align="left" src="media/people/Brydon_Wall.jpeg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Brydon Wall, Research Analyst I, MS Bioinformatics
