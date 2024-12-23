@@ -16,8 +16,16 @@ permalink: "members.html"
 <br>
 <br>
 
+<img alt="My (Jasmine) Nguyen" align="left" src="media/people/nguyenm212-sq.jpg" width="100" height="100"/>
+&nbsp;&nbsp;&nbsp;My (Jasmine) Nguyen, Ph.D. candidate, Biostatistics
+<br>
+&nbsp;&nbsp;&nbsp;GitHub: [hamy12398](https://github.com/hamy12398) | [LinkedIn](https://www.linkedin.com/in/my-nguyen-90a290129)
+<br>
+<br>
+<br>
+
 <img alt="Brydon Wall" align="left" src="media/people/Brydon_Wall.jpeg" width="100" height="100"/>
-&nbsp;&nbsp;&nbsp;Brydon Wall, M.S. Bioinformatics student
+&nbsp;&nbsp;&nbsp;Brydon Wall, Research Analyst I, MS Bioinformatics
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [WallBPG](https://github.com/WallBPG) 
 <br>
