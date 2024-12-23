@@ -10,7 +10,7 @@ permalink: "teaching.html"
 
 - **Cancer Bioinformatics**, BIOS691, Instructor/Course director. This 3-credit hour course provides an introduction to genomics, sequencing technologies, data analysis. [Course website](https://bios691-cancer-bioinformatics.netlify.app/)
 
-- **Deep learning with R**, BIOS691, Instructor/Course director. This 1-credit hour course is an introduction to deep learning theory and practice. It will cover the basics of neural network architectures, main statistical concepts behind training neural networks, and implementation aspects. The main focus will be on programming deep neural networks using TensorFlow and its Keras front-end in R, although the knowledge will also be useful for Python practitioners. [Course website](https://bios691-deep-learning-r.netlify.app/)
+- **Deep learning with R**, BIOS691, Instructor/Course director. This 1-credit hour course is an introduction to deep learning theory and practice. It will cover the basics of neural network architectures, main statistical concepts behind training neural networks, and implementation aspects. The main focus will be on programming deep neural networks using TensorFlow and its Keras front-end in R, although the knowledge will also be useful for Python practitioners. [Course website](https://bios691-deep-learning-r.netlify.app/), [2025](https://bios691-deep-learning-r-2025.netlify.app)
 
 - **Reproducible research tools**, BIOS691, Summer 2016-18,	Instructor/Course director. This 1-credit hour course introduces the fundamental concepts in computational reproducible research. Through lectures and hands-on exercises students learn best practices of statistical data analysis and programming. [Course website](https://mdozmorov.github.io/BIOS691.2018/)
 
