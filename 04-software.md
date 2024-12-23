@@ -10,7 +10,8 @@ permalink: "software.html"
 
 We implement our methods as the R packages deployed on [Bioconductor](http://www.bioconductor.org).
 
-- [**scHiCcompare**](https://github.com/dozmorovlab/scHiCcompare) - differential interaction detection in single-cell Hi-C data. Includes imputation, normalization, and differential interaction detection between two groups of scHiC matrices. [Preprint](https://doi.org/10.1101/2024.11.06.622369)
+- [**scHiCcompare**](https://github.com/dozmorovlab/scHiCcompare) - differential interaction detection in single-cell Hi-C data. Includes imputation, normalization, and differential interaction detection between two groups of scHiC matrices. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/scHiCcompare), [Preprint](https://doi.org/10.1101/2024.11.06.622369) ]
 
 - [**preciseTAD**](https://bioconductor.org/packages/preciseTAD) - Prediction of boundaries of topologically associating domains (TADs) and chromatin loops from epigenomic data at base-level precision. [preciseTADhub](https://bioconductor.org/packages/preciseTADhub/) - Pre-trained random forest models obtained using preciseTAD. [preciseTAD predicted boundaries for 60 cell lines](https://drive.google.com/drive/folders/15Rc6PhrrBjThwE-5dSyNX-ILELaUu6uG?usp=sharing) - BED files, hg38
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [Bioconductor](https://bioconductor.org/packages/preciseTAD/), [GitHub](https://github.com/dozmorovlab/preciseTAD), [Paper](https://doi.org/10.1093/bioinformatics/btab743) ]
