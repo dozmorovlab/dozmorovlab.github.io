@@ -12,7 +12,9 @@ permalink: "publications.html"
 
 [Google Scholar](http://scholar.google.com/citations?user=soABR8sAAAAJ&hl=en) |
 [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/mikhail.dozmorov.1/bibliography/public/) | 
-[ORCID](https://orcid.org/0000-0002-0086-8358) 
+[ORCID](https://orcid.org/0000-0002-0086-8358)  
+
+[Equal contribution](#equal-contribution) | [Collaborative publications](#collaborative-publications)
 
 ## Lead/senior author publications
 
@@ -103,7 +105,7 @@ permalink: "publications.html"
 
 <sup>&lowast;</sup> indicates corresponding author, unless specified otherwise
 
-## Equal contributions
+## Equal contribution
 
 - Lospinoso K<sup>&lowast;</sup>, Dozmorov M<sup>&lowast;</sup>, El Fawal N, Raghu R, Chae WJ, Lee ED. **Overexpression of ERAP2N in Human Trophoblast Cells Promotes Cell Death**. _Int J Mol Sci_. 2021 Aug 10, [PMID](https://www.ncbi.nlm.nih.gov/pubmed/34445292), [DOI](https://doi.org/10.3390/ijms22168585) <span data-badge-type="4" data-doi="10.3390/ijms22168585" data-hide-no-mentions="true" class="altmetric-embed"> </span>  <sup>&lowast;</sup> - equal contribution
 
@@ -114,6 +116,8 @@ permalink: "publications.html"
 - Delgado-Vega AM, Dozmorov MG<sup>&lowast;</sup>, Quirós MB, Wu YY, Martínez-García B, Kozyrev SV,Frostegård J, Truedsson L, de Ramón E, González-Escribano MF, Ortego-Centeno N,Pons-Estel BA, D'Alfonso S, Sebastiani GD, Witte T, Lauwerys BR, Endreffy E,Kovács L, Vasconcelos C, da Silva BM, Wren JD, Martin J, Castillejo-López C, Alarcón-Riquelme ME. **Fine mapping and conditional analysis identify a new mutation in the autoimmunity susceptibility gene BLK that leads to reduced half-life of the BLK protein.** _Ann Rheum Dis_. 2012 jul 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22696686), [DOI](https://doi.org/10.1136/annrheumdis-2011-200987) <span data-badge-type="4" data-doi="10.1136/annrheumdis-2011-200987" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - co-first author
 
 ## Collaborative publications
+
+- Sierra S, Herz SM, On D, Dozmorov MG, Damaj MI, Gonzalez-Maeso J. **Upregulation of the neuropeptide receptor calcitonin receptor-like in the spinal cord via MLL2 in a mouse model of paclitaxel-induced peripheral neuropathy.** _Mol Pain._ 2025 Jan-Dec. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/39905828), [DOI](https://doi.org/10.1177/17448069251314857) <span data-badge-type="4" data-doi="10.1177/17448069251314857" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Gnatowski ER, Jurmain JL, Dozmorov MG, Wolstenholme JT, Miles MF. **Ninein, a candidate gene for ethanol anxiolysis, shows complex exon-specific expression and alternative splicing differences between C57BL/6J and DBA/2J mice.** _Front Genet._ 2024 Sep 11. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/39323865), [DOI](https://doi.org/10.3389/fgene.2024.1455616) <span data-badge-type="4" data-doi="10.3389/fgene.2024.1455616" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
