@@ -14,7 +14,8 @@ permalink: "publications.html"
 [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/mikhail.dozmorov.1/bibliography/public/) | 
 [ORCID](https://orcid.org/0000-0002-0086-8358)  
 
-[Equal contribution](#equal-contribution) | [Collaborative publications](#collaborative-publications)
+[Equal contribution](#equal-contribution)  
+[Collaborative publications](#collaborative-publications)
 
 ## Lead/senior author publications
 
