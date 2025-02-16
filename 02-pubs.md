@@ -19,7 +19,7 @@ permalink: "publications.html"
 
 ## Lead/senior author publications
 
-- Brydon P.G. Wall, Jonathan D. Ogata, My Nguyen, Joseph L. McClay, Chuck Harrell, Mikhail G Dozmorov<sup>&lowast;</sup> **Beyond Blacklists: A Critical Assessment of Exclusion Set Generation Strategies and Alternative Approaches** _bioRxiv_ 2025.02.06; [DOI](https://doi.org/10.1101/2025.02.06.636968)
+- Brydon P.G. Wall, Jonathan D. Ogata, My Nguyen, Joseph L. McClay, Chuck Harrell, Mikhail G Dozmorov<sup>&lowast;</sup> **Beyond Blacklists: A Critical Assessment of Exclusion Set Generation Strategies and Alternative Approaches** _bioRxiv_ 2025.02.06; [DOI](https://doi.org/10.1101/2025.02.06.636968), [GitHub](https://github.com/dozmorovlab/excluderanges_supplementary)
 
 - My Nguyen, Brydon P. G. Wall, J. Chuck Harrell, Mikhail G. Dozmorov<sup>&lowast;</sup> **scHiCcompare: an R package for differential analysis of single-cell Hi-C data** _bioRxiv_ 2024.11.06; [DOI](https://doi.org/10.1101/2024.11.06.622369)
 
