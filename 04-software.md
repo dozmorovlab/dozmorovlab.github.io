@@ -6,6 +6,12 @@ permalink: "software.html"
 ---
 {% include JB/setup %}
 
+### Python
+
+- [**EpiTADformer**](https://github.com/dozmorovlab/EpiTADformer) - A Transformer-Based Model for High-Resolution TAD Boundary Detection Using Epigenomic Signal Embeddings 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [GitHub](https://github.com/dozmorovlab/EpiTADformer), [Preprint](https://doi.org/10.64898/2026.01.20.700691) ]
+
+
 ### Bioconductor R packages
 
 We implement our methods as the R packages deployed on [Bioconductor](http://www.bioconductor.org).
