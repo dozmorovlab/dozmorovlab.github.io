@@ -19,9 +19,11 @@ permalink: "publications.html"
 
 ## Lead/senior author publications
 
-- Brydon P.G. Wall, Jonathan D. Ogata, My Nguyen, Joseph L. McClay, Chuck Harrell, Mikhail G Dozmorov<sup>&lowast;</sup> **Beyond Blacklists: A Critical Assessment of Exclusion Set Generation Strategies and Alternative Approaches** _bioRxiv_ 2025.02.06; [DOI](https://doi.org/10.1101/2025.02.06.636968), [GitHub](https://github.com/dozmorovlab/excluderanges_supplementary)
+- My Nguyen, Shaojun Tang, Joseph L. McClay, J. Chuck Harrell, Mikhail G. Dozmorov EpiTADformer: A Transformer-Based Model for High-Resolution TAD Boundary Detection Using Epigenomic Signal Embeddings bioRxiv 2026; [DOI](https://doi.org/10.64898/2026.01.20.700691), [GitHub](https://github.com/dozmorovlab/EpiTADformer), <span data-badge-type="4" data-doi="10.64898/2026.01.20.700691" data-hide-no-mentions="true" class="altmetric-embed">
 
-- My Nguyen, Brydon P. G. Wall, J. Chuck Harrell, Mikhail G. Dozmorov<sup>&lowast;</sup> **scHiCcompare: an R package for differential analysis of single-cell Hi-C data** _bioRxiv_ 2024.11.06; [DOI](https://doi.org/10.1101/2024.11.06.622369)
+- Wall BPG, Ogata JD, Nguyen M, Olex AL, Floros KV, Faber AC, McClay JL, Harrell JC, Dozmorov MG. Beyond blacklists: a critical assessment of exclusion set generation strategies and alternative approaches. Bioinformatics. 2026 Feb 28. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/41826793/), [DOI](https://doi.org/10.1093/bioinformatics/btag110), [GitHub](https://github.com/dozmorovlab/excluderanges_supplementary), <span data-badge-type="4" data-doi="10.1093/bioinformatics/btag110" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
+
+- Nguyen M, Wall BPG, Harrell JC, Dozmorov MG. scHiCcompare: An R Package for Differential Analysis of Single-cell Hi-C Data. J Mol Biol. 2025 Apr 15. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/40246224/), [DOI](https://doi.org/10.1016/j.jmb.2025.169155), [GitHub](https://github.com/dozmorovlab/scHiCcompare), <span data-badge-type="4" data-doi="10.1016/j.jmb.2025.169155" data-hide-no-mentions="true" class="altmetric-embed"> </span> 
 
 - Wall BPG, Nguyen M, Harrell JC, Dozmorov MG<sup>&lowast;</sup>. **Machine and deep learning methods for predicting 3D genome organization.** _Methods Mol Biol._ 2025. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/39283464), [DOI](https://doi.org/10.1007/978-1-0716-4136-1_22) <span data-badge-type="4" data-doi="10.1007/978-1-0716-4136-1_22" data-hide-no-mentions="true" class="altmetric-embed">, [Preprint](https://arxiv.org/abs/2403.03231)
 
@@ -119,6 +121,24 @@ permalink: "publications.html"
 - Delgado-Vega AM, Dozmorov MG<sup>&lowast;</sup>, Quirós MB, Wu YY, Martínez-García B, Kozyrev SV,Frostegård J, Truedsson L, de Ramón E, González-Escribano MF, Ortego-Centeno N,Pons-Estel BA, D'Alfonso S, Sebastiani GD, Witte T, Lauwerys BR, Endreffy E,Kovács L, Vasconcelos C, da Silva BM, Wren JD, Martin J, Castillejo-López C, Alarcón-Riquelme ME. **Fine mapping and conditional analysis identify a new mutation in the autoimmunity susceptibility gene BLK that leads to reduced half-life of the BLK protein.** _Ann Rheum Dis_. 2012 jul 7. [PMID](http://www.ncbi.nlm.nih.gov/pubmed/22696686), [DOI](https://doi.org/10.1136/annrheumdis-2011-200987) <span data-badge-type="4" data-doi="10.1136/annrheumdis-2011-200987" data-hide-no-mentions="true" class="altmetric-embed"> </span> <sup>&lowast;</sup> - co-first author
 
 ## Collaborative publications
+
+- Hill RD, Dalton KM, Kurupi R, Slaughter JM, Roberts J, Xing Y, Kehinde V, Zhang K, Hu B, Kraskauskiene V, Lorenz MR, Koblinski JE, Dozmorov MG, Floros KV, Faber AC. Daraxonrasib (RMC-6236) is an effective targeted therapy for RAS -mutant neuroblastoma. bioRxiv [Preprint]. 2026 Feb 20. PMID:    
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/41756844), [DOI](https://doi.org/10.64898/2026.02.19.706849) <span data-badge-type="4" data-doi="10.64898/2026.02.19.706849" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+- Al Saeedy DY, Hawkins E, Dozmorov MG, Tripathi O, Mahdiani S, Jahr FM, AlAzzeh O, Deshpande LS, McClay JL. Striatal Dysregulation of Angpt2 and Circadian Gene Expression in a Rotenone Rat Model of Parkinson's Disease. J Mol Neurosci. 2026 Apr 2. PMID: 
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/41925987), [DOI](https://doi.org/10.1007/s12031-026-02506-z) <span data-badge-type="4" data-doi="10.1007/s12031-026-02506-z" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+- Siff TE, Allen PE, Adcox HE, Blinova S, Chiarelli TJ, Hunt JR, Wang J, Armistead DL, Billingsley JS, O'Bier N, Perry CN, O'Neill KN, Marconi RT, Dozmorov M*, Ottens AK, Carlyon JA. Orientia tsutsugamushi targets lamin A using Ank effectors and alters chromatin to inhibit NF-κB. Commun Biol. 2026 Apr 11. PMID: . * Co-corresponding author
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/41965450), [DOI](https://doi.org/10.1038/s42003-026-10003-7) <span data-badge-type="4" data-doi="10.1038/s42003-026-10003-7" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+- Long H, Carmona E, Dozmorov MG, Sawalha AH. Type I interferon drives dysfunction of a distinct CD8+ HLA-DRB1+ T cell subset in systemic lupus erythematosus. medRxiv [Preprint]. 2026 Jan 3. PMID: .
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/41607660), [DOI](https://doi.org/10.64898/2026.01.02.26343348) <span data-badge-type="4" data-doi="10.64898/2026.01.02.26343348" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+- Altman JE, Valentine A, Dashti-Gibson N, Zboril EK, Boyd DC, Myrick RK, Olex AL, Dozmorov MG, Harrell JC. Therapeutic synergies that overcome carboplatin resistance in triple-negative breast cancer. J Exp Clin Cancer Res. 2026 Feb 3. PMID: 
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/41630032), [DOI](https://doi.org/10.1186/s13046-025-03636-9) <span data-badge-type="4" data-doi="10.1186/s13046-025-03636-9" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+- Floros KV, Fairchild CK Jr, Li J, Zhang K, Roberts JL, Kurupi R, Paudel D, Xing Y, Hu B, Kraskauskiene V, Hosseini N, Shen S, Inge MM, Smith-Fry K, Li L, Sotiriou A, Dalton KM, Jose A, Abdelfadiel EI, Hill RD, Slaughter JM, Shende M, Lorenz MR, Tanaka N, Kajino T, Nelson ML, Hinojosa MR, Kehinde VA, Belvin BR, Sugiokto FG, Lai Z, Dimopoulos AC, Boikos SA, Stamatouli AM, Lewis JP, Manjili MH, Ebi H, Valerie K, Li R, Poklepovic A, Koblinski JE, Siggers T, Banito A, Dozmorov MG, Jones KB, Radhakrishnan SK, Faber AC. Targeting SUMOylation promotes cBAF complex stabilization and disruption of the SS18::SSX transcriptome in synovial sarcoma. Nat Commun. 2025 Nov 5. PMID: 
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/41193430), [DOI](https://doi.org/10.1038/s41467-025-64665-8) <span data-badge-type="4" data-doi="10.1038/s41467-025-64665-8" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 - Garcia-Santillan AD, Lichtenberg JY, Shen H, Rodriguez JM, Makar S, Barra J, Clark NM, Du W, Martinez LM, Hadjis AD, Calicchia T, Dozmorov MG, Bravo-Cordero JJ, Olex AL, Hwang PY, Bos PD. **Tumor cell dissemination is facilitated through regulatory T cell-driven extracellular matrix remodeling.** _bioRxiv_ [Preprint]. 2025 Oct 26. [PMID](https://www.ncbi.nlm.nih.gov/pubmed/41279036), [DOI](https://doi.org/10.1101/2025.10.25.684515) <span data-badge-type="4" data-doi="10.1101/2025.10.25.684515" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
