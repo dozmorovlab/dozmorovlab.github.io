@@ -8,7 +8,7 @@ permalink: "members.html"
 
 <img alt="Mikhail Dozmorov" align="left" src="media/people/MikhailDozmorov.jpg" width="100" height="100"/>
 &nbsp;&nbsp;&nbsp;Mikhail Dozmorov, Ph.D., Blick Scholar  
-&nbsp;&nbsp;&nbsp;Associate Professor, [Department of Biostatistics](https://biostatistics.vcu.edu/)  
+&nbsp;&nbsp;&nbsp;Professor, [Department of Biostatistics](https://biostatistics.vcu.edu/)  
 &nbsp;&nbsp;&nbsp;Affiliate, [Department of Pathology](https://pathology.vcu.edu/)  
 &nbsp;&nbsp;&nbsp;Virginia Commonwealth University  
 <!-- &nbsp;&nbsp;&nbsp;[CV](./files/Dozmorov_M-CV.pdf) -->  
